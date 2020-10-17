@@ -1,0 +1,8002 @@
+{
+  "id981": {
+    "nickUtente": "id981",
+    "password": "psw981",
+    "points": 0,
+    "friends": [
+      "id980"
+    ]
+  },
+  "id980": {
+    "nickUtente": "id980",
+    "password": "psw980",
+    "points": 0,
+    "friends": [
+      "id981"
+    ]
+  },
+  "id987": {
+    "nickUtente": "id987",
+    "password": "psw987",
+    "points": 0,
+    "friends": [
+      "id986"
+    ]
+  },
+  "id745": {
+    "nickUtente": "id745",
+    "password": "psw745",
+    "points": 0,
+    "friends": [
+      "id744"
+    ]
+  },
+  "id503": {
+    "nickUtente": "id503",
+    "password": "psw503",
+    "points": 0,
+    "friends": [
+      "id502"
+    ]
+  },
+  "id986": {
+    "nickUtente": "id986",
+    "password": "psw986",
+    "points": 0,
+    "friends": [
+      "id987"
+    ]
+  },
+  "id744": {
+    "nickUtente": "id744",
+    "password": "psw744",
+    "points": 0,
+    "friends": [
+      "id745"
+    ]
+  },
+  "id502": {
+    "nickUtente": "id502",
+    "password": "psw502",
+    "points": 0,
+    "friends": [
+      "id503"
+    ]
+  },
+  "id989": {
+    "nickUtente": "id989",
+    "password": "psw989",
+    "points": 0,
+    "friends": [
+      "id988"
+    ]
+  },
+  "id747": {
+    "nickUtente": "id747",
+    "password": "psw747",
+    "points": 0,
+    "friends": [
+      "id746"
+    ]
+  },
+  "id505": {
+    "nickUtente": "id505",
+    "password": "psw505",
+    "points": 0,
+    "friends": [
+      "id504"
+    ]
+  },
+  "id988": {
+    "nickUtente": "id988",
+    "password": "psw988",
+    "points": 0,
+    "friends": [
+      "id989"
+    ]
+  },
+  "id746": {
+    "nickUtente": "id746",
+    "password": "psw746",
+    "points": 0,
+    "friends": [
+      "id747"
+    ]
+  },
+  "id504": {
+    "nickUtente": "id504",
+    "password": "psw504",
+    "points": 0,
+    "friends": [
+      "id505"
+    ]
+  },
+  "id983": {
+    "nickUtente": "id983",
+    "password": "psw983",
+    "points": 0,
+    "friends": [
+      "id982"
+    ]
+  },
+  "id741": {
+    "nickUtente": "id741",
+    "password": "psw741",
+    "points": 0,
+    "friends": [
+      "id740"
+    ]
+  },
+  "id982": {
+    "nickUtente": "id982",
+    "password": "psw982",
+    "points": 0,
+    "friends": [
+      "id983"
+    ]
+  },
+  "id740": {
+    "nickUtente": "id740",
+    "password": "psw740",
+    "points": 0,
+    "friends": [
+      "id741"
+    ]
+  },
+  "id985": {
+    "nickUtente": "id985",
+    "password": "psw985",
+    "points": 0,
+    "friends": [
+      "id984"
+    ]
+  },
+  "id743": {
+    "nickUtente": "id743",
+    "password": "psw743",
+    "points": 0,
+    "friends": [
+      "id742"
+    ]
+  },
+  "id501": {
+    "nickUtente": "id501",
+    "password": "psw501",
+    "points": 0,
+    "friends": [
+      "id500"
+    ]
+  },
+  "id984": {
+    "nickUtente": "id984",
+    "password": "psw984",
+    "points": 0,
+    "friends": [
+      "id985"
+    ]
+  },
+  "id742": {
+    "nickUtente": "id742",
+    "password": "psw742",
+    "points": 0,
+    "friends": [
+      "id743"
+    ]
+  },
+  "id500": {
+    "nickUtente": "id500",
+    "password": "psw500",
+    "points": 0,
+    "friends": [
+      "id501"
+    ]
+  },
+  "id738": {
+    "nickUtente": "id738",
+    "password": "psw738",
+    "points": 0,
+    "friends": [
+      "id739"
+    ]
+  },
+  "id979": {
+    "nickUtente": "id979",
+    "password": "psw979",
+    "points": 0,
+    "friends": [
+      "id978"
+    ]
+  },
+  "id737": {
+    "nickUtente": "id737",
+    "password": "psw737",
+    "points": 0,
+    "friends": [
+      "id736"
+    ]
+  },
+  "id739": {
+    "nickUtente": "id739",
+    "password": "psw739",
+    "points": 0,
+    "friends": [
+      "id738"
+    ]
+  },
+  "id970": {
+    "nickUtente": "id970",
+    "password": "psw970",
+    "points": 0,
+    "friends": [
+      "id971"
+    ]
+  },
+  "id976": {
+    "nickUtente": "id976",
+    "password": "psw976",
+    "points": 0,
+    "friends": [
+      "id977"
+    ]
+  },
+  "id734": {
+    "nickUtente": "id734",
+    "password": "psw734",
+    "points": 0,
+    "friends": [
+      "id735"
+    ]
+  },
+  "id975": {
+    "nickUtente": "id975",
+    "password": "psw975",
+    "points": 0,
+    "friends": [
+      "id974"
+    ]
+  },
+  "id733": {
+    "nickUtente": "id733",
+    "password": "psw733",
+    "points": 0,
+    "friends": [
+      "id732"
+    ]
+  },
+  "id978": {
+    "nickUtente": "id978",
+    "password": "psw978",
+    "points": 0,
+    "friends": [
+      "id979"
+    ]
+  },
+  "id736": {
+    "nickUtente": "id736",
+    "password": "psw736",
+    "points": 0,
+    "friends": [
+      "id737"
+    ]
+  },
+  "id977": {
+    "nickUtente": "id977",
+    "password": "psw977",
+    "points": 0,
+    "friends": [
+      "id976"
+    ]
+  },
+  "id735": {
+    "nickUtente": "id735",
+    "password": "psw735",
+    "points": 0,
+    "friends": [
+      "id734"
+    ]
+  },
+  "id972": {
+    "nickUtente": "id972",
+    "password": "psw972",
+    "points": 0,
+    "friends": [
+      "id973"
+    ]
+  },
+  "id730": {
+    "nickUtente": "id730",
+    "password": "psw730",
+    "points": 0,
+    "friends": [
+      "id731"
+    ]
+  },
+  "id971": {
+    "nickUtente": "id971",
+    "password": "psw971",
+    "points": 0,
+    "friends": [
+      "id970"
+    ]
+  },
+  "id974": {
+    "nickUtente": "id974",
+    "password": "psw974",
+    "points": 0,
+    "friends": [
+      "id975"
+    ]
+  },
+  "id732": {
+    "nickUtente": "id732",
+    "password": "psw732",
+    "points": 0,
+    "friends": [
+      "id733"
+    ]
+  },
+  "id973": {
+    "nickUtente": "id973",
+    "password": "psw973",
+    "points": 0,
+    "friends": [
+      "id972"
+    ]
+  },
+  "id731": {
+    "nickUtente": "id731",
+    "password": "psw731",
+    "points": 0,
+    "friends": [
+      "id730"
+    ]
+  },
+  "id969": {
+    "nickUtente": "id969",
+    "password": "psw969",
+    "points": 0,
+    "friends": [
+      "id968"
+    ]
+  },
+  "id727": {
+    "nickUtente": "id727",
+    "password": "psw727",
+    "points": 0,
+    "friends": [
+      "id726"
+    ]
+  },
+  "id968": {
+    "nickUtente": "id968",
+    "password": "psw968",
+    "points": 0,
+    "friends": [
+      "id969"
+    ]
+  },
+  "id726": {
+    "nickUtente": "id726",
+    "password": "psw726",
+    "points": 0,
+    "friends": [
+      "id727"
+    ]
+  },
+  "id729": {
+    "nickUtente": "id729",
+    "password": "psw729",
+    "points": 0,
+    "friends": [
+      "id728"
+    ]
+  },
+  "id728": {
+    "nickUtente": "id728",
+    "password": "psw728",
+    "points": 0,
+    "friends": [
+      "id729"
+    ]
+  },
+  "id965": {
+    "nickUtente": "id965",
+    "password": "psw965",
+    "points": 0,
+    "friends": [
+      "id964"
+    ]
+  },
+  "id723": {
+    "nickUtente": "id723",
+    "password": "psw723",
+    "points": 0,
+    "friends": [
+      "id722"
+    ]
+  },
+  "id964": {
+    "nickUtente": "id964",
+    "password": "psw964",
+    "points": 0,
+    "friends": [
+      "id965"
+    ]
+  },
+  "id722": {
+    "nickUtente": "id722",
+    "password": "psw722",
+    "points": 0,
+    "friends": [
+      "id723"
+    ]
+  },
+  "id967": {
+    "nickUtente": "id967",
+    "password": "psw967",
+    "points": 0,
+    "friends": [
+      "id966"
+    ]
+  },
+  "id725": {
+    "nickUtente": "id725",
+    "password": "psw725",
+    "points": 0,
+    "friends": [
+      "id724"
+    ]
+  },
+  "id11": {
+    "nickUtente": "id11",
+    "password": "psw11",
+    "points": 0,
+    "friends": [
+      "id10"
+    ]
+  },
+  "id966": {
+    "nickUtente": "id966",
+    "password": "psw966",
+    "points": 0,
+    "friends": [
+      "id967"
+    ]
+  },
+  "id724": {
+    "nickUtente": "id724",
+    "password": "psw724",
+    "points": 0,
+    "friends": [
+      "id725"
+    ]
+  },
+  "id10": {
+    "nickUtente": "id10",
+    "password": "psw10",
+    "points": 0,
+    "friends": [
+      "id11"
+    ]
+  },
+  "id13": {
+    "nickUtente": "id13",
+    "password": "psw13",
+    "points": 0,
+    "friends": [
+      "id12"
+    ]
+  },
+  "id961": {
+    "nickUtente": "id961",
+    "password": "psw961",
+    "points": 0,
+    "friends": [
+      "id960"
+    ]
+  },
+  "id960": {
+    "nickUtente": "id960",
+    "password": "psw960",
+    "points": 0,
+    "friends": [
+      "id961"
+    ]
+  },
+  "id12": {
+    "nickUtente": "id12",
+    "password": "psw12",
+    "points": 0,
+    "friends": [
+      "id13"
+    ]
+  },
+  "id963": {
+    "nickUtente": "id963",
+    "password": "psw963",
+    "points": 0,
+    "friends": [
+      "id962"
+    ]
+  },
+  "id721": {
+    "nickUtente": "id721",
+    "password": "psw721",
+    "points": 0,
+    "friends": [
+      "id720"
+    ]
+  },
+  "id15": {
+    "nickUtente": "id15",
+    "password": "psw15",
+    "points": 0,
+    "friends": [
+      "id14"
+    ]
+  },
+  "id962": {
+    "nickUtente": "id962",
+    "password": "psw962",
+    "points": 0,
+    "friends": [
+      "id963"
+    ]
+  },
+  "id720": {
+    "nickUtente": "id720",
+    "password": "psw720",
+    "points": 0,
+    "friends": [
+      "id721"
+    ]
+  },
+  "id14": {
+    "nickUtente": "id14",
+    "password": "psw14",
+    "points": 0,
+    "friends": [
+      "id15"
+    ]
+  },
+  "id719": {
+    "nickUtente": "id719",
+    "password": "psw719",
+    "points": 0,
+    "friends": [
+      "id718"
+    ]
+  },
+  "id958": {
+    "nickUtente": "id958",
+    "password": "psw958",
+    "points": 0,
+    "friends": [
+      "id959"
+    ]
+  },
+  "id716": {
+    "nickUtente": "id716",
+    "password": "psw716",
+    "points": 0,
+    "friends": [
+      "id717"
+    ]
+  },
+  "id957": {
+    "nickUtente": "id957",
+    "password": "psw957",
+    "points": 0,
+    "friends": [
+      "id956"
+    ]
+  },
+  "id715": {
+    "nickUtente": "id715",
+    "password": "psw715",
+    "points": 0,
+    "friends": [
+      "id714"
+    ]
+  },
+  "id718": {
+    "nickUtente": "id718",
+    "password": "psw718",
+    "points": 0,
+    "friends": [
+      "id719"
+    ]
+  },
+  "id959": {
+    "nickUtente": "id959",
+    "password": "psw959",
+    "points": 0,
+    "friends": [
+      "id958"
+    ]
+  },
+  "id717": {
+    "nickUtente": "id717",
+    "password": "psw717",
+    "points": 0,
+    "friends": [
+      "id716"
+    ]
+  },
+  "id954": {
+    "nickUtente": "id954",
+    "password": "psw954",
+    "points": 0,
+    "friends": [
+      "id955"
+    ]
+  },
+  "id712": {
+    "nickUtente": "id712",
+    "password": "psw712",
+    "points": 0,
+    "friends": [
+      "id713"
+    ]
+  },
+  "id953": {
+    "nickUtente": "id953",
+    "password": "psw953",
+    "points": 0,
+    "friends": [
+      "id952"
+    ]
+  },
+  "id711": {
+    "nickUtente": "id711",
+    "password": "psw711",
+    "points": 0,
+    "friends": [
+      "id710"
+    ]
+  },
+  "id956": {
+    "nickUtente": "id956",
+    "password": "psw956",
+    "points": 0,
+    "friends": [
+      "id957"
+    ]
+  },
+  "id714": {
+    "nickUtente": "id714",
+    "password": "psw714",
+    "points": 0,
+    "friends": [
+      "id715"
+    ]
+  },
+  "id955": {
+    "nickUtente": "id955",
+    "password": "psw955",
+    "points": 0,
+    "friends": [
+      "id954"
+    ]
+  },
+  "id713": {
+    "nickUtente": "id713",
+    "password": "psw713",
+    "points": 0,
+    "friends": [
+      "id712"
+    ]
+  },
+  "id950": {
+    "nickUtente": "id950",
+    "password": "psw950",
+    "points": 0,
+    "friends": [
+      "id951"
+    ]
+  },
+  "id952": {
+    "nickUtente": "id952",
+    "password": "psw952",
+    "points": 0,
+    "friends": [
+      "id953"
+    ]
+  },
+  "id710": {
+    "nickUtente": "id710",
+    "password": "psw710",
+    "points": 0,
+    "friends": [
+      "id711"
+    ]
+  },
+  "id951": {
+    "nickUtente": "id951",
+    "password": "psw951",
+    "points": 0,
+    "friends": [
+      "id950"
+    ]
+  },
+  "id709": {
+    "nickUtente": "id709",
+    "password": "psw709",
+    "points": 0,
+    "friends": [
+      "id708"
+    ]
+  },
+  "id708": {
+    "nickUtente": "id708",
+    "password": "psw708",
+    "points": 0,
+    "friends": [
+      "id709"
+    ]
+  },
+  "id947": {
+    "nickUtente": "id947",
+    "password": "psw947",
+    "points": 0,
+    "friends": [
+      "id946"
+    ]
+  },
+  "id705": {
+    "nickUtente": "id705",
+    "password": "psw705",
+    "points": 0,
+    "friends": [
+      "id704"
+    ]
+  },
+  "id946": {
+    "nickUtente": "id946",
+    "password": "psw946",
+    "points": 0,
+    "friends": [
+      "id947"
+    ]
+  },
+  "id704": {
+    "nickUtente": "id704",
+    "password": "psw704",
+    "points": 0,
+    "friends": [
+      "id705"
+    ]
+  },
+  "id949": {
+    "nickUtente": "id949",
+    "password": "psw949",
+    "points": 0,
+    "friends": [
+      "id948"
+    ]
+  },
+  "id707": {
+    "nickUtente": "id707",
+    "password": "psw707",
+    "points": 0,
+    "friends": [
+      "id706"
+    ]
+  },
+  "id948": {
+    "nickUtente": "id948",
+    "password": "psw948",
+    "points": 0,
+    "friends": [
+      "id949"
+    ]
+  },
+  "id706": {
+    "nickUtente": "id706",
+    "password": "psw706",
+    "points": 0,
+    "friends": [
+      "id707"
+    ]
+  },
+  "id943": {
+    "nickUtente": "id943",
+    "password": "psw943",
+    "points": 0,
+    "friends": [
+      "id942"
+    ]
+  },
+  "id701": {
+    "nickUtente": "id701",
+    "password": "psw701",
+    "points": 0,
+    "friends": [
+      "id700"
+    ]
+  },
+  "id31": {
+    "nickUtente": "id31",
+    "password": "psw31",
+    "points": 0,
+    "friends": [
+      "id30"
+    ]
+  },
+  "id942": {
+    "nickUtente": "id942",
+    "password": "psw942",
+    "points": 0,
+    "friends": [
+      "id943"
+    ]
+  },
+  "id700": {
+    "nickUtente": "id700",
+    "password": "psw700",
+    "points": 0,
+    "friends": [
+      "id701"
+    ]
+  },
+  "id30": {
+    "nickUtente": "id30",
+    "password": "psw30",
+    "points": 0,
+    "friends": [
+      "id31"
+    ]
+  },
+  "id945": {
+    "nickUtente": "id945",
+    "password": "psw945",
+    "points": 0,
+    "friends": [
+      "id944"
+    ]
+  },
+  "id703": {
+    "nickUtente": "id703",
+    "password": "psw703",
+    "points": 0,
+    "friends": [
+      "id702"
+    ]
+  },
+  "id33": {
+    "nickUtente": "id33",
+    "password": "psw33",
+    "points": 0,
+    "friends": [
+      "id32"
+    ]
+  },
+  "id944": {
+    "nickUtente": "id944",
+    "password": "psw944",
+    "points": 0,
+    "friends": [
+      "id945"
+    ]
+  },
+  "id702": {
+    "nickUtente": "id702",
+    "password": "psw702",
+    "points": 0,
+    "friends": [
+      "id703"
+    ]
+  },
+  "id32": {
+    "nickUtente": "id32",
+    "password": "psw32",
+    "points": 0,
+    "friends": [
+      "id33"
+    ]
+  },
+  "id35": {
+    "nickUtente": "id35",
+    "password": "psw35",
+    "points": 0,
+    "friends": [
+      "id34"
+    ]
+  },
+  "id34": {
+    "nickUtente": "id34",
+    "password": "psw34",
+    "points": 0,
+    "friends": [
+      "id35"
+    ]
+  },
+  "id37": {
+    "nickUtente": "id37",
+    "password": "psw37",
+    "points": 0,
+    "friends": [
+      "id36"
+    ]
+  },
+  "id941": {
+    "nickUtente": "id941",
+    "password": "psw941",
+    "points": 0,
+    "friends": [
+      "id940"
+    ]
+  },
+  "id940": {
+    "nickUtente": "id940",
+    "password": "psw940",
+    "points": 0,
+    "friends": [
+      "id941"
+    ]
+  },
+  "id36": {
+    "nickUtente": "id36",
+    "password": "psw36",
+    "points": 0,
+    "friends": [
+      "id37"
+    ]
+  },
+  "id28": {
+    "nickUtente": "id28",
+    "password": "psw28",
+    "points": 0,
+    "friends": [
+      "id29"
+    ]
+  },
+  "id939": {
+    "nickUtente": "id939",
+    "password": "psw939",
+    "points": 0,
+    "friends": [
+      "id938"
+    ]
+  },
+  "id27": {
+    "nickUtente": "id27",
+    "password": "psw27",
+    "points": 0,
+    "friends": [
+      "id26"
+    ]
+  },
+  "id29": {
+    "nickUtente": "id29",
+    "password": "psw29",
+    "points": 0,
+    "friends": [
+      "id28"
+    ]
+  },
+  "id936": {
+    "nickUtente": "id936",
+    "password": "psw936",
+    "points": 0,
+    "friends": [
+      "id937"
+    ]
+  },
+  "id935": {
+    "nickUtente": "id935",
+    "password": "psw935",
+    "points": 0,
+    "friends": [
+      "id934"
+    ]
+  },
+  "id938": {
+    "nickUtente": "id938",
+    "password": "psw938",
+    "points": 0,
+    "friends": [
+      "id939"
+    ]
+  },
+  "id937": {
+    "nickUtente": "id937",
+    "password": "psw937",
+    "points": 0,
+    "friends": [
+      "id936"
+    ]
+  },
+  "id932": {
+    "nickUtente": "id932",
+    "password": "psw932",
+    "points": 0,
+    "friends": [
+      "id933"
+    ]
+  },
+  "id20": {
+    "nickUtente": "id20",
+    "password": "psw20",
+    "points": 0,
+    "friends": [
+      "id21"
+    ]
+  },
+  "id931": {
+    "nickUtente": "id931",
+    "password": "psw931",
+    "points": 0,
+    "friends": [
+      "id930"
+    ]
+  },
+  "id934": {
+    "nickUtente": "id934",
+    "password": "psw934",
+    "points": 0,
+    "friends": [
+      "id935"
+    ]
+  },
+  "id22": {
+    "nickUtente": "id22",
+    "password": "psw22",
+    "points": 0,
+    "friends": [
+      "id23"
+    ]
+  },
+  "id933": {
+    "nickUtente": "id933",
+    "password": "psw933",
+    "points": 0,
+    "friends": [
+      "id932"
+    ]
+  },
+  "id21": {
+    "nickUtente": "id21",
+    "password": "psw21",
+    "points": 0,
+    "friends": [
+      "id20"
+    ]
+  },
+  "id24": {
+    "nickUtente": "id24",
+    "password": "psw24",
+    "points": 0,
+    "friends": [
+      "id25"
+    ]
+  },
+  "id23": {
+    "nickUtente": "id23",
+    "password": "psw23",
+    "points": 0,
+    "friends": [
+      "id22"
+    ]
+  },
+  "id930": {
+    "nickUtente": "id930",
+    "password": "psw930",
+    "points": 0,
+    "friends": [
+      "id931"
+    ]
+  },
+  "id26": {
+    "nickUtente": "id26",
+    "password": "psw26",
+    "points": 0,
+    "friends": [
+      "id27"
+    ]
+  },
+  "id25": {
+    "nickUtente": "id25",
+    "password": "psw25",
+    "points": 0,
+    "friends": [
+      "id24"
+    ]
+  },
+  "id929": {
+    "nickUtente": "id929",
+    "password": "psw929",
+    "points": 0,
+    "friends": [
+      "id928"
+    ]
+  },
+  "id17": {
+    "nickUtente": "id17",
+    "password": "psw17",
+    "points": 0,
+    "friends": [
+      "id16"
+    ]
+  },
+  "id928": {
+    "nickUtente": "id928",
+    "password": "psw928",
+    "points": 0,
+    "friends": [
+      "id929"
+    ]
+  },
+  "id16": {
+    "nickUtente": "id16",
+    "password": "psw16",
+    "points": 0,
+    "friends": [
+      "id17"
+    ]
+  },
+  "id19": {
+    "nickUtente": "id19",
+    "password": "psw19",
+    "points": 0,
+    "friends": [
+      "id18"
+    ]
+  },
+  "id18": {
+    "nickUtente": "id18",
+    "password": "psw18",
+    "points": 0,
+    "friends": [
+      "id19"
+    ]
+  },
+  "id925": {
+    "nickUtente": "id925",
+    "password": "psw925",
+    "points": 0,
+    "friends": [
+      "id924"
+    ]
+  },
+  "id924": {
+    "nickUtente": "id924",
+    "password": "psw924",
+    "points": 0,
+    "friends": [
+      "id925"
+    ]
+  },
+  "id927": {
+    "nickUtente": "id927",
+    "password": "psw927",
+    "points": 0,
+    "friends": [
+      "id926"
+    ]
+  },
+  "id926": {
+    "nickUtente": "id926",
+    "password": "psw926",
+    "points": 0,
+    "friends": [
+      "id927"
+    ]
+  },
+  "id51": {
+    "nickUtente": "id51",
+    "password": "psw51",
+    "points": 0,
+    "friends": [
+      "id50"
+    ]
+  },
+  "id50": {
+    "nickUtente": "id50",
+    "password": "psw50",
+    "points": 0,
+    "friends": [
+      "id51"
+    ]
+  },
+  "id53": {
+    "nickUtente": "id53",
+    "password": "psw53",
+    "points": 0,
+    "friends": [
+      "id52"
+    ]
+  },
+  "id921": {
+    "nickUtente": "id921",
+    "password": "psw921",
+    "points": 0,
+    "friends": [
+      "id920"
+    ]
+  },
+  "id920": {
+    "nickUtente": "id920",
+    "password": "psw920",
+    "points": 0,
+    "friends": [
+      "id921"
+    ]
+  },
+  "id52": {
+    "nickUtente": "id52",
+    "password": "psw52",
+    "points": 0,
+    "friends": [
+      "id53"
+    ]
+  },
+  "id923": {
+    "nickUtente": "id923",
+    "password": "psw923",
+    "points": 0,
+    "friends": [
+      "id922"
+    ]
+  },
+  "id55": {
+    "nickUtente": "id55",
+    "password": "psw55",
+    "points": 0,
+    "friends": [
+      "id54"
+    ]
+  },
+  "id922": {
+    "nickUtente": "id922",
+    "password": "psw922",
+    "points": 0,
+    "friends": [
+      "id923"
+    ]
+  },
+  "id54": {
+    "nickUtente": "id54",
+    "password": "psw54",
+    "points": 0,
+    "friends": [
+      "id55"
+    ]
+  },
+  "id57": {
+    "nickUtente": "id57",
+    "password": "psw57",
+    "points": 0,
+    "friends": [
+      "id56"
+    ]
+  },
+  "id56": {
+    "nickUtente": "id56",
+    "password": "psw56",
+    "points": 0,
+    "friends": [
+      "id57"
+    ]
+  },
+  "id59": {
+    "nickUtente": "id59",
+    "password": "psw59",
+    "points": 0,
+    "friends": [
+      "id58"
+    ]
+  },
+  "id58": {
+    "nickUtente": "id58",
+    "password": "psw58",
+    "points": 0,
+    "friends": [
+      "id59"
+    ]
+  },
+  "id918": {
+    "nickUtente": "id918",
+    "password": "psw918",
+    "points": 0,
+    "friends": [
+      "id919"
+    ]
+  },
+  "id49": {
+    "nickUtente": "id49",
+    "password": "psw49",
+    "points": 0,
+    "friends": [
+      "id48"
+    ]
+  },
+  "id917": {
+    "nickUtente": "id917",
+    "password": "psw917",
+    "points": 0,
+    "friends": [
+      "id916"
+    ]
+  },
+  "id919": {
+    "nickUtente": "id919",
+    "password": "psw919",
+    "points": 0,
+    "friends": [
+      "id918"
+    ]
+  },
+  "id914": {
+    "nickUtente": "id914",
+    "password": "psw914",
+    "points": 0,
+    "friends": [
+      "id915"
+    ]
+  },
+  "id913": {
+    "nickUtente": "id913",
+    "password": "psw913",
+    "points": 0,
+    "friends": [
+      "id912"
+    ]
+  },
+  "id916": {
+    "nickUtente": "id916",
+    "password": "psw916",
+    "points": 0,
+    "friends": [
+      "id917"
+    ]
+  },
+  "id915": {
+    "nickUtente": "id915",
+    "password": "psw915",
+    "points": 0,
+    "friends": [
+      "id914"
+    ]
+  },
+  "id40": {
+    "nickUtente": "id40",
+    "password": "psw40",
+    "points": 0,
+    "friends": [
+      "id41"
+    ]
+  },
+  "id910": {
+    "nickUtente": "id910",
+    "password": "psw910",
+    "points": 0,
+    "friends": [
+      "id911"
+    ]
+  },
+  "id42": {
+    "nickUtente": "id42",
+    "password": "psw42",
+    "points": 0,
+    "friends": [
+      "id43"
+    ]
+  },
+  "id41": {
+    "nickUtente": "id41",
+    "password": "psw41",
+    "points": 0,
+    "friends": [
+      "id40"
+    ]
+  },
+  "id44": {
+    "nickUtente": "id44",
+    "password": "psw44",
+    "points": 0,
+    "friends": [
+      "id45"
+    ]
+  },
+  "id912": {
+    "nickUtente": "id912",
+    "password": "psw912",
+    "points": 0,
+    "friends": [
+      "id913"
+    ]
+  },
+  "id911": {
+    "nickUtente": "id911",
+    "password": "psw911",
+    "points": 0,
+    "friends": [
+      "id910"
+    ]
+  },
+  "id43": {
+    "nickUtente": "id43",
+    "password": "psw43",
+    "points": 0,
+    "friends": [
+      "id42"
+    ]
+  },
+  "id46": {
+    "nickUtente": "id46",
+    "password": "psw46",
+    "points": 0,
+    "friends": [
+      "id47"
+    ]
+  },
+  "id45": {
+    "nickUtente": "id45",
+    "password": "psw45",
+    "points": 0,
+    "friends": [
+      "id44"
+    ]
+  },
+  "id48": {
+    "nickUtente": "id48",
+    "password": "psw48",
+    "points": 0,
+    "friends": [
+      "id49"
+    ]
+  },
+  "id47": {
+    "nickUtente": "id47",
+    "password": "psw47",
+    "points": 0,
+    "friends": [
+      "id46"
+    ]
+  },
+  "id39": {
+    "nickUtente": "id39",
+    "password": "psw39",
+    "points": 0,
+    "friends": [
+      "id38"
+    ]
+  },
+  "id907": {
+    "nickUtente": "id907",
+    "password": "psw907",
+    "points": 0,
+    "friends": [
+      "id906"
+    ]
+  },
+  "id38": {
+    "nickUtente": "id38",
+    "password": "psw38",
+    "points": 0,
+    "friends": [
+      "id39"
+    ]
+  },
+  "id906": {
+    "nickUtente": "id906",
+    "password": "psw906",
+    "points": 0,
+    "friends": [
+      "id907"
+    ]
+  },
+  "id909": {
+    "nickUtente": "id909",
+    "password": "psw909",
+    "points": 0,
+    "friends": [
+      "id908"
+    ]
+  },
+  "id908": {
+    "nickUtente": "id908",
+    "password": "psw908",
+    "points": 0,
+    "friends": [
+      "id909"
+    ]
+  },
+  "id903": {
+    "nickUtente": "id903",
+    "password": "psw903",
+    "points": 0,
+    "friends": [
+      "id902"
+    ]
+  },
+  "id902": {
+    "nickUtente": "id902",
+    "password": "psw902",
+    "points": 0,
+    "friends": [
+      "id903"
+    ]
+  },
+  "id905": {
+    "nickUtente": "id905",
+    "password": "psw905",
+    "points": 0,
+    "friends": [
+      "id904"
+    ]
+  },
+  "id904": {
+    "nickUtente": "id904",
+    "password": "psw904",
+    "points": 0,
+    "friends": [
+      "id905"
+    ]
+  },
+  "id71": {
+    "nickUtente": "id71",
+    "password": "psw71",
+    "points": 0,
+    "friends": [
+      "id70"
+    ]
+  },
+  "id70": {
+    "nickUtente": "id70",
+    "password": "psw70",
+    "points": 0,
+    "friends": [
+      "id71"
+    ]
+  },
+  "id73": {
+    "nickUtente": "id73",
+    "password": "psw73",
+    "points": 0,
+    "friends": [
+      "id72"
+    ]
+  },
+  "id72": {
+    "nickUtente": "id72",
+    "password": "psw72",
+    "points": 0,
+    "friends": [
+      "id73"
+    ]
+  },
+  "id75": {
+    "nickUtente": "id75",
+    "password": "psw75",
+    "points": 0,
+    "friends": [
+      "id74"
+    ]
+  },
+  "id74": {
+    "nickUtente": "id74",
+    "password": "psw74",
+    "points": 0,
+    "friends": [
+      "id75"
+    ]
+  },
+  "id77": {
+    "nickUtente": "id77",
+    "password": "psw77",
+    "points": 0,
+    "friends": [
+      "id76"
+    ]
+  },
+  "id901": {
+    "nickUtente": "id901",
+    "password": "psw901",
+    "points": 0,
+    "friends": [
+      "id900"
+    ]
+  },
+  "id76": {
+    "nickUtente": "id76",
+    "password": "psw76",
+    "points": 0,
+    "friends": [
+      "id77"
+    ]
+  },
+  "id900": {
+    "nickUtente": "id900",
+    "password": "psw900",
+    "points": 0,
+    "friends": [
+      "id901"
+    ]
+  },
+  "id79": {
+    "nickUtente": "id79",
+    "password": "psw79",
+    "points": 0,
+    "friends": [
+      "id78"
+    ]
+  },
+  "id78": {
+    "nickUtente": "id78",
+    "password": "psw78",
+    "points": 0,
+    "friends": [
+      "id79"
+    ]
+  },
+  "id60": {
+    "nickUtente": "id60",
+    "password": "psw60",
+    "points": 0,
+    "friends": [
+      "id61"
+    ]
+  },
+  "id62": {
+    "nickUtente": "id62",
+    "password": "psw62",
+    "points": 0,
+    "friends": [
+      "id63"
+    ]
+  },
+  "id61": {
+    "nickUtente": "id61",
+    "password": "psw61",
+    "points": 0,
+    "friends": [
+      "id60"
+    ]
+  },
+  "id64": {
+    "nickUtente": "id64",
+    "password": "psw64",
+    "points": 0,
+    "friends": [
+      "id65"
+    ]
+  },
+  "id63": {
+    "nickUtente": "id63",
+    "password": "psw63",
+    "points": 0,
+    "friends": [
+      "id62"
+    ]
+  },
+  "id66": {
+    "nickUtente": "id66",
+    "password": "psw66",
+    "points": 0,
+    "friends": [
+      "id67"
+    ]
+  },
+  "id65": {
+    "nickUtente": "id65",
+    "password": "psw65",
+    "points": 0,
+    "friends": [
+      "id64"
+    ]
+  },
+  "id68": {
+    "nickUtente": "id68",
+    "password": "psw68",
+    "points": 0,
+    "friends": [
+      "id69"
+    ]
+  },
+  "id67": {
+    "nickUtente": "id67",
+    "password": "psw67",
+    "points": 0,
+    "friends": [
+      "id66"
+    ]
+  },
+  "id69": {
+    "nickUtente": "id69",
+    "password": "psw69",
+    "points": 0,
+    "friends": [
+      "id68"
+    ]
+  },
+  "id91": {
+    "nickUtente": "id91",
+    "password": "psw91",
+    "points": 0,
+    "friends": [
+      "id90"
+    ]
+  },
+  "id90": {
+    "nickUtente": "id90",
+    "password": "psw90",
+    "points": 0,
+    "friends": [
+      "id91"
+    ]
+  },
+  "id93": {
+    "nickUtente": "id93",
+    "password": "psw93",
+    "points": 0,
+    "friends": [
+      "id92"
+    ]
+  },
+  "id92": {
+    "nickUtente": "id92",
+    "password": "psw92",
+    "points": 0,
+    "friends": [
+      "id93"
+    ]
+  },
+  "id95": {
+    "nickUtente": "id95",
+    "password": "psw95",
+    "points": 0,
+    "friends": [
+      "id94"
+    ]
+  },
+  "id94": {
+    "nickUtente": "id94",
+    "password": "psw94",
+    "points": 0,
+    "friends": [
+      "id95"
+    ]
+  },
+  "id97": {
+    "nickUtente": "id97",
+    "password": "psw97",
+    "points": 0,
+    "friends": [
+      "id96"
+    ]
+  },
+  "id96": {
+    "nickUtente": "id96",
+    "password": "psw96",
+    "points": 0,
+    "friends": [
+      "id97"
+    ]
+  },
+  "id99": {
+    "nickUtente": "id99",
+    "password": "psw99",
+    "points": 0,
+    "friends": [
+      "id98"
+    ]
+  },
+  "id98": {
+    "nickUtente": "id98",
+    "password": "psw98",
+    "points": 0,
+    "friends": [
+      "id99"
+    ]
+  },
+  "id80": {
+    "nickUtente": "id80",
+    "password": "psw80",
+    "points": 0,
+    "friends": [
+      "id81"
+    ]
+  },
+  "id82": {
+    "nickUtente": "id82",
+    "password": "psw82",
+    "points": 0,
+    "friends": [
+      "id83"
+    ]
+  },
+  "id81": {
+    "nickUtente": "id81",
+    "password": "psw81",
+    "points": 0,
+    "friends": [
+      "id80"
+    ]
+  },
+  "id84": {
+    "nickUtente": "id84",
+    "password": "psw84",
+    "points": 0,
+    "friends": [
+      "id85"
+    ]
+  },
+  "id83": {
+    "nickUtente": "id83",
+    "password": "psw83",
+    "points": 0,
+    "friends": [
+      "id82"
+    ]
+  },
+  "id86": {
+    "nickUtente": "id86",
+    "password": "psw86",
+    "points": 0,
+    "friends": [
+      "id87"
+    ]
+  },
+  "id85": {
+    "nickUtente": "id85",
+    "password": "psw85",
+    "points": 0,
+    "friends": [
+      "id84"
+    ]
+  },
+  "id88": {
+    "nickUtente": "id88",
+    "password": "psw88",
+    "points": 0,
+    "friends": [
+      "id89"
+    ]
+  },
+  "id87": {
+    "nickUtente": "id87",
+    "password": "psw87",
+    "points": 0,
+    "friends": [
+      "id86"
+    ]
+  },
+  "id89": {
+    "nickUtente": "id89",
+    "password": "psw89",
+    "points": 0,
+    "friends": [
+      "id88"
+    ]
+  },
+  "id187": {
+    "nickUtente": "id187",
+    "password": "psw187",
+    "points": 0,
+    "friends": [
+      "id186"
+    ]
+  },
+  "id186": {
+    "nickUtente": "id186",
+    "password": "psw186",
+    "points": 0,
+    "friends": [
+      "id187"
+    ]
+  },
+  "id189": {
+    "nickUtente": "id189",
+    "password": "psw189",
+    "points": 0,
+    "friends": [
+      "id188"
+    ]
+  },
+  "id188": {
+    "nickUtente": "id188",
+    "password": "psw188",
+    "points": 0,
+    "friends": [
+      "id189"
+    ]
+  },
+  "id183": {
+    "nickUtente": "id183",
+    "password": "psw183",
+    "points": 0,
+    "friends": [
+      "id182"
+    ]
+  },
+  "id182": {
+    "nickUtente": "id182",
+    "password": "psw182",
+    "points": 0,
+    "friends": [
+      "id183"
+    ]
+  },
+  "id185": {
+    "nickUtente": "id185",
+    "password": "psw185",
+    "points": 0,
+    "friends": [
+      "id184"
+    ]
+  },
+  "id184": {
+    "nickUtente": "id184",
+    "password": "psw184",
+    "points": 0,
+    "friends": [
+      "id185"
+    ]
+  },
+  "id181": {
+    "nickUtente": "id181",
+    "password": "psw181",
+    "points": 0,
+    "friends": [
+      "id180"
+    ]
+  },
+  "id180": {
+    "nickUtente": "id180",
+    "password": "psw180",
+    "points": 0,
+    "friends": [
+      "id181"
+    ]
+  },
+  "id176": {
+    "nickUtente": "id176",
+    "password": "psw176",
+    "points": 0,
+    "friends": [
+      "id177"
+    ]
+  },
+  "id175": {
+    "nickUtente": "id175",
+    "password": "psw175",
+    "points": 0,
+    "friends": [
+      "id174"
+    ]
+  },
+  "id178": {
+    "nickUtente": "id178",
+    "password": "psw178",
+    "points": 0,
+    "friends": [
+      "id179"
+    ]
+  },
+  "id177": {
+    "nickUtente": "id177",
+    "password": "psw177",
+    "points": 0,
+    "friends": [
+      "id176"
+    ]
+  },
+  "id172": {
+    "nickUtente": "id172",
+    "password": "psw172",
+    "points": 0,
+    "friends": [
+      "id173"
+    ]
+  },
+  "id171": {
+    "nickUtente": "id171",
+    "password": "psw171",
+    "points": 0,
+    "friends": [
+      "id170"
+    ]
+  },
+  "id174": {
+    "nickUtente": "id174",
+    "password": "psw174",
+    "points": 0,
+    "friends": [
+      "id175"
+    ]
+  },
+  "id173": {
+    "nickUtente": "id173",
+    "password": "psw173",
+    "points": 0,
+    "friends": [
+      "id172"
+    ]
+  },
+  "id179": {
+    "nickUtente": "id179",
+    "password": "psw179",
+    "points": 0,
+    "friends": [
+      "id178"
+    ]
+  },
+  "id170": {
+    "nickUtente": "id170",
+    "password": "psw170",
+    "points": 0,
+    "friends": [
+      "id171"
+    ]
+  },
+  "id165": {
+    "nickUtente": "id165",
+    "password": "psw165",
+    "points": 0,
+    "friends": [
+      "id164"
+    ]
+  },
+  "id164": {
+    "nickUtente": "id164",
+    "password": "psw164",
+    "points": 0,
+    "friends": [
+      "id165"
+    ]
+  },
+  "id167": {
+    "nickUtente": "id167",
+    "password": "psw167",
+    "points": 0,
+    "friends": [
+      "id166"
+    ]
+  },
+  "id166": {
+    "nickUtente": "id166",
+    "password": "psw166",
+    "points": 0,
+    "friends": [
+      "id167"
+    ]
+  },
+  "id161": {
+    "nickUtente": "id161",
+    "password": "psw161",
+    "points": 0,
+    "friends": [
+      "id160"
+    ]
+  },
+  "id160": {
+    "nickUtente": "id160",
+    "password": "psw160",
+    "points": 0,
+    "friends": [
+      "id161"
+    ]
+  },
+  "id163": {
+    "nickUtente": "id163",
+    "password": "psw163",
+    "points": 0,
+    "friends": [
+      "id162"
+    ]
+  },
+  "id162": {
+    "nickUtente": "id162",
+    "password": "psw162",
+    "points": 0,
+    "friends": [
+      "id163"
+    ]
+  },
+  "id169": {
+    "nickUtente": "id169",
+    "password": "psw169",
+    "points": 0,
+    "friends": [
+      "id168"
+    ]
+  },
+  "id168": {
+    "nickUtente": "id168",
+    "password": "psw168",
+    "points": 0,
+    "friends": [
+      "id169"
+    ]
+  },
+  "id396": {
+    "nickUtente": "id396",
+    "password": "psw396",
+    "points": 0,
+    "friends": [
+      "id397"
+    ]
+  },
+  "id154": {
+    "nickUtente": "id154",
+    "password": "psw154",
+    "points": 0,
+    "friends": [
+      "id155"
+    ]
+  },
+  "id395": {
+    "nickUtente": "id395",
+    "password": "psw395",
+    "points": 0,
+    "friends": [
+      "id394"
+    ]
+  },
+  "id153": {
+    "nickUtente": "id153",
+    "password": "psw153",
+    "points": 0,
+    "friends": [
+      "id152"
+    ]
+  },
+  "id398": {
+    "nickUtente": "id398",
+    "password": "psw398",
+    "points": 0,
+    "friends": [
+      "id399"
+    ]
+  },
+  "id156": {
+    "nickUtente": "id156",
+    "password": "psw156",
+    "points": 0,
+    "friends": [
+      "id157"
+    ]
+  },
+  "id397": {
+    "nickUtente": "id397",
+    "password": "psw397",
+    "points": 0,
+    "friends": [
+      "id396"
+    ]
+  },
+  "id155": {
+    "nickUtente": "id155",
+    "password": "psw155",
+    "points": 0,
+    "friends": [
+      "id154"
+    ]
+  },
+  "id392": {
+    "nickUtente": "id392",
+    "password": "psw392",
+    "points": 0,
+    "friends": [
+      "id393"
+    ]
+  },
+  "id150": {
+    "nickUtente": "id150",
+    "password": "psw150",
+    "points": 0,
+    "friends": [
+      "id151"
+    ]
+  },
+  "id391": {
+    "nickUtente": "id391",
+    "password": "psw391",
+    "points": 0,
+    "friends": [
+      "id390"
+    ]
+  },
+  "id394": {
+    "nickUtente": "id394",
+    "password": "psw394",
+    "points": 0,
+    "friends": [
+      "id395"
+    ]
+  },
+  "id152": {
+    "nickUtente": "id152",
+    "password": "psw152",
+    "points": 0,
+    "friends": [
+      "id153"
+    ]
+  },
+  "id393": {
+    "nickUtente": "id393",
+    "password": "psw393",
+    "points": 0,
+    "friends": [
+      "id392"
+    ]
+  },
+  "id151": {
+    "nickUtente": "id151",
+    "password": "psw151",
+    "points": 0,
+    "friends": [
+      "id150"
+    ]
+  },
+  "id158": {
+    "nickUtente": "id158",
+    "password": "psw158",
+    "points": 0,
+    "friends": [
+      "id159"
+    ]
+  },
+  "id399": {
+    "nickUtente": "id399",
+    "password": "psw399",
+    "points": 0,
+    "friends": [
+      "id398"
+    ]
+  },
+  "id157": {
+    "nickUtente": "id157",
+    "password": "psw157",
+    "points": 0,
+    "friends": [
+      "id156"
+    ]
+  },
+  "id159": {
+    "nickUtente": "id159",
+    "password": "psw159",
+    "points": 0,
+    "friends": [
+      "id158"
+    ]
+  },
+  "id390": {
+    "nickUtente": "id390",
+    "password": "psw390",
+    "points": 0,
+    "friends": [
+      "id391"
+    ]
+  },
+  "id385": {
+    "nickUtente": "id385",
+    "password": "psw385",
+    "points": 0,
+    "friends": [
+      "id384"
+    ]
+  },
+  "id143": {
+    "nickUtente": "id143",
+    "password": "psw143",
+    "points": 0,
+    "friends": [
+      "id142"
+    ]
+  },
+  "id384": {
+    "nickUtente": "id384",
+    "password": "psw384",
+    "points": 0,
+    "friends": [
+      "id385"
+    ]
+  },
+  "id142": {
+    "nickUtente": "id142",
+    "password": "psw142",
+    "points": 0,
+    "friends": [
+      "id143"
+    ]
+  },
+  "id387": {
+    "nickUtente": "id387",
+    "password": "psw387",
+    "points": 0,
+    "friends": [
+      "id386"
+    ]
+  },
+  "id145": {
+    "nickUtente": "id145",
+    "password": "psw145",
+    "points": 0,
+    "friends": [
+      "id144"
+    ]
+  },
+  "id386": {
+    "nickUtente": "id386",
+    "password": "psw386",
+    "points": 0,
+    "friends": [
+      "id387"
+    ]
+  },
+  "id144": {
+    "nickUtente": "id144",
+    "password": "psw144",
+    "points": 0,
+    "friends": [
+      "id145"
+    ]
+  },
+  "id381": {
+    "nickUtente": "id381",
+    "password": "psw381",
+    "points": 0,
+    "friends": [
+      "id380"
+    ]
+  },
+  "id380": {
+    "nickUtente": "id380",
+    "password": "psw380",
+    "points": 0,
+    "friends": [
+      "id381"
+    ]
+  },
+  "id383": {
+    "nickUtente": "id383",
+    "password": "psw383",
+    "points": 0,
+    "friends": [
+      "id382"
+    ]
+  },
+  "id141": {
+    "nickUtente": "id141",
+    "password": "psw141",
+    "points": 0,
+    "friends": [
+      "id140"
+    ]
+  },
+  "id382": {
+    "nickUtente": "id382",
+    "password": "psw382",
+    "points": 0,
+    "friends": [
+      "id383"
+    ]
+  },
+  "id140": {
+    "nickUtente": "id140",
+    "password": "psw140",
+    "points": 0,
+    "friends": [
+      "id141"
+    ]
+  },
+  "id389": {
+    "nickUtente": "id389",
+    "password": "psw389",
+    "points": 0,
+    "friends": [
+      "id388"
+    ]
+  },
+  "id147": {
+    "nickUtente": "id147",
+    "password": "psw147",
+    "points": 0,
+    "friends": [
+      "id146"
+    ]
+  },
+  "id388": {
+    "nickUtente": "id388",
+    "password": "psw388",
+    "points": 0,
+    "friends": [
+      "id389"
+    ]
+  },
+  "id146": {
+    "nickUtente": "id146",
+    "password": "psw146",
+    "points": 0,
+    "friends": [
+      "id147"
+    ]
+  },
+  "id149": {
+    "nickUtente": "id149",
+    "password": "psw149",
+    "points": 0,
+    "friends": [
+      "id148"
+    ]
+  },
+  "id148": {
+    "nickUtente": "id148",
+    "password": "psw148",
+    "points": 0,
+    "friends": [
+      "id149"
+    ]
+  },
+  "id132": {
+    "nickUtente": "id132",
+    "password": "psw132",
+    "points": 0,
+    "friends": [
+      "id133"
+    ]
+  },
+  "id374": {
+    "nickUtente": "id374",
+    "password": "psw374",
+    "points": 0,
+    "friends": [
+      "id375"
+    ]
+  },
+  "id131": {
+    "nickUtente": "id131",
+    "password": "psw131",
+    "points": 0,
+    "friends": [
+      "id130"
+    ]
+  },
+  "id373": {
+    "nickUtente": "id373",
+    "password": "psw373",
+    "points": 0,
+    "friends": [
+      "id372"
+    ]
+  },
+  "id134": {
+    "nickUtente": "id134",
+    "password": "psw134",
+    "points": 0,
+    "friends": [
+      "id135"
+    ]
+  },
+  "id376": {
+    "nickUtente": "id376",
+    "password": "psw376",
+    "points": 0,
+    "friends": [
+      "id377"
+    ]
+  },
+  "id133": {
+    "nickUtente": "id133",
+    "password": "psw133",
+    "points": 0,
+    "friends": [
+      "id132"
+    ]
+  },
+  "id375": {
+    "nickUtente": "id375",
+    "password": "psw375",
+    "points": 0,
+    "friends": [
+      "id374"
+    ]
+  },
+  "id370": {
+    "nickUtente": "id370",
+    "password": "psw370",
+    "points": 0,
+    "friends": [
+      "id371"
+    ]
+  },
+  "id130": {
+    "nickUtente": "id130",
+    "password": "psw130",
+    "points": 0,
+    "friends": [
+      "id131"
+    ]
+  },
+  "id372": {
+    "nickUtente": "id372",
+    "password": "psw372",
+    "points": 0,
+    "friends": [
+      "id373"
+    ]
+  },
+  "id371": {
+    "nickUtente": "id371",
+    "password": "psw371",
+    "points": 0,
+    "friends": [
+      "id370"
+    ]
+  },
+  "id139": {
+    "nickUtente": "id139",
+    "password": "psw139",
+    "points": 0,
+    "friends": [
+      "id138"
+    ]
+  },
+  "id136": {
+    "nickUtente": "id136",
+    "password": "psw136",
+    "points": 0,
+    "friends": [
+      "id137"
+    ]
+  },
+  "id378": {
+    "nickUtente": "id378",
+    "password": "psw378",
+    "points": 0,
+    "friends": [
+      "id379"
+    ]
+  },
+  "id135": {
+    "nickUtente": "id135",
+    "password": "psw135",
+    "points": 0,
+    "friends": [
+      "id134"
+    ]
+  },
+  "id377": {
+    "nickUtente": "id377",
+    "password": "psw377",
+    "points": 0,
+    "friends": [
+      "id376"
+    ]
+  },
+  "id138": {
+    "nickUtente": "id138",
+    "password": "psw138",
+    "points": 0,
+    "friends": [
+      "id139"
+    ]
+  },
+  "id379": {
+    "nickUtente": "id379",
+    "password": "psw379",
+    "points": 0,
+    "friends": [
+      "id378"
+    ]
+  },
+  "id137": {
+    "nickUtente": "id137",
+    "password": "psw137",
+    "points": 0,
+    "friends": [
+      "id136"
+    ]
+  },
+  "id121": {
+    "nickUtente": "id121",
+    "password": "psw121",
+    "points": 0,
+    "friends": [
+      "id120"
+    ]
+  },
+  "id363": {
+    "nickUtente": "id363",
+    "password": "psw363",
+    "points": 0,
+    "friends": [
+      "id362"
+    ]
+  },
+  "id120": {
+    "nickUtente": "id120",
+    "password": "psw120",
+    "points": 0,
+    "friends": [
+      "id121"
+    ]
+  },
+  "id362": {
+    "nickUtente": "id362",
+    "password": "psw362",
+    "points": 0,
+    "friends": [
+      "id363"
+    ]
+  },
+  "id123": {
+    "nickUtente": "id123",
+    "password": "psw123",
+    "points": 0,
+    "friends": [
+      "id122"
+    ]
+  },
+  "id365": {
+    "nickUtente": "id365",
+    "password": "psw365",
+    "points": 0,
+    "friends": [
+      "id364"
+    ]
+  },
+  "id122": {
+    "nickUtente": "id122",
+    "password": "psw122",
+    "points": 0,
+    "friends": [
+      "id123"
+    ]
+  },
+  "id364": {
+    "nickUtente": "id364",
+    "password": "psw364",
+    "points": 0,
+    "friends": [
+      "id365"
+    ]
+  },
+  "id361": {
+    "nickUtente": "id361",
+    "password": "psw361",
+    "points": 0,
+    "friends": [
+      "id360"
+    ]
+  },
+  "id360": {
+    "nickUtente": "id360",
+    "password": "psw360",
+    "points": 0,
+    "friends": [
+      "id361"
+    ]
+  },
+  "id129": {
+    "nickUtente": "id129",
+    "password": "psw129",
+    "points": 0,
+    "friends": [
+      "id128"
+    ]
+  },
+  "id128": {
+    "nickUtente": "id128",
+    "password": "psw128",
+    "points": 0,
+    "friends": [
+      "id129"
+    ]
+  },
+  "id367": {
+    "nickUtente": "id367",
+    "password": "psw367",
+    "points": 0,
+    "friends": [
+      "id366"
+    ]
+  },
+  "id125": {
+    "nickUtente": "id125",
+    "password": "psw125",
+    "points": 0,
+    "friends": [
+      "id124"
+    ]
+  },
+  "id366": {
+    "nickUtente": "id366",
+    "password": "psw366",
+    "points": 0,
+    "friends": [
+      "id367"
+    ]
+  },
+  "id124": {
+    "nickUtente": "id124",
+    "password": "psw124",
+    "points": 0,
+    "friends": [
+      "id125"
+    ]
+  },
+  "id127": {
+    "nickUtente": "id127",
+    "password": "psw127",
+    "points": 0,
+    "friends": [
+      "id126"
+    ]
+  },
+  "id369": {
+    "nickUtente": "id369",
+    "password": "psw369",
+    "points": 0,
+    "friends": [
+      "id368"
+    ]
+  },
+  "id368": {
+    "nickUtente": "id368",
+    "password": "psw368",
+    "points": 0,
+    "friends": [
+      "id369"
+    ]
+  },
+  "id126": {
+    "nickUtente": "id126",
+    "password": "psw126",
+    "points": 0,
+    "friends": [
+      "id127"
+    ]
+  },
+  "id352": {
+    "nickUtente": "id352",
+    "password": "psw352",
+    "points": 0,
+    "friends": [
+      "id353"
+    ]
+  },
+  "id110": {
+    "nickUtente": "id110",
+    "password": "psw110",
+    "points": 0,
+    "friends": [
+      "id111"
+    ]
+  },
+  "id594": {
+    "nickUtente": "id594",
+    "password": "psw594",
+    "points": 0,
+    "friends": [
+      "id595"
+    ]
+  },
+  "id351": {
+    "nickUtente": "id351",
+    "password": "psw351",
+    "points": 0,
+    "friends": [
+      "id350"
+    ]
+  },
+  "id593": {
+    "nickUtente": "id593",
+    "password": "psw593",
+    "points": 0,
+    "friends": [
+      "id592"
+    ]
+  },
+  "id354": {
+    "nickUtente": "id354",
+    "password": "psw354",
+    "points": 0,
+    "friends": [
+      "id355"
+    ]
+  },
+  "id112": {
+    "nickUtente": "id112",
+    "password": "psw112",
+    "points": 0,
+    "friends": [
+      "id113"
+    ]
+  },
+  "id596": {
+    "nickUtente": "id596",
+    "password": "psw596",
+    "points": 0,
+    "friends": [
+      "id597"
+    ]
+  },
+  "id353": {
+    "nickUtente": "id353",
+    "password": "psw353",
+    "points": 0,
+    "friends": [
+      "id352"
+    ]
+  },
+  "id111": {
+    "nickUtente": "id111",
+    "password": "psw111",
+    "points": 0,
+    "friends": [
+      "id110"
+    ]
+  },
+  "id595": {
+    "nickUtente": "id595",
+    "password": "psw595",
+    "points": 0,
+    "friends": [
+      "id594"
+    ]
+  },
+  "id590": {
+    "nickUtente": "id590",
+    "password": "psw590",
+    "points": 0,
+    "friends": [
+      "id591"
+    ]
+  },
+  "id350": {
+    "nickUtente": "id350",
+    "password": "psw350",
+    "points": 0,
+    "friends": [
+      "id351"
+    ]
+  },
+  "id592": {
+    "nickUtente": "id592",
+    "password": "psw592",
+    "points": 0,
+    "friends": [
+      "id593"
+    ]
+  },
+  "id591": {
+    "nickUtente": "id591",
+    "password": "psw591",
+    "points": 0,
+    "friends": [
+      "id590"
+    ]
+  },
+  "id118": {
+    "nickUtente": "id118",
+    "password": "psw118",
+    "points": 0,
+    "friends": [
+      "id119"
+    ]
+  },
+  "id117": {
+    "nickUtente": "id117",
+    "password": "psw117",
+    "points": 0,
+    "friends": [
+      "id116"
+    ]
+  },
+  "id359": {
+    "nickUtente": "id359",
+    "password": "psw359",
+    "points": 0,
+    "friends": [
+      "id358"
+    ]
+  },
+  "id119": {
+    "nickUtente": "id119",
+    "password": "psw119",
+    "points": 0,
+    "friends": [
+      "id118"
+    ]
+  },
+  "id356": {
+    "nickUtente": "id356",
+    "password": "psw356",
+    "points": 0,
+    "friends": [
+      "id357"
+    ]
+  },
+  "id114": {
+    "nickUtente": "id114",
+    "password": "psw114",
+    "points": 0,
+    "friends": [
+      "id115"
+    ]
+  },
+  "id598": {
+    "nickUtente": "id598",
+    "password": "psw598",
+    "points": 0,
+    "friends": [
+      "id599"
+    ]
+  },
+  "id355": {
+    "nickUtente": "id355",
+    "password": "psw355",
+    "points": 0,
+    "friends": [
+      "id354"
+    ]
+  },
+  "id113": {
+    "nickUtente": "id113",
+    "password": "psw113",
+    "points": 0,
+    "friends": [
+      "id112"
+    ]
+  },
+  "id597": {
+    "nickUtente": "id597",
+    "password": "psw597",
+    "points": 0,
+    "friends": [
+      "id596"
+    ]
+  },
+  "id358": {
+    "nickUtente": "id358",
+    "password": "psw358",
+    "points": 0,
+    "friends": [
+      "id359"
+    ]
+  },
+  "id116": {
+    "nickUtente": "id116",
+    "password": "psw116",
+    "points": 0,
+    "friends": [
+      "id117"
+    ]
+  },
+  "id357": {
+    "nickUtente": "id357",
+    "password": "psw357",
+    "points": 0,
+    "friends": [
+      "id356"
+    ]
+  },
+  "id115": {
+    "nickUtente": "id115",
+    "password": "psw115",
+    "points": 0,
+    "friends": [
+      "id114"
+    ]
+  },
+  "id599": {
+    "nickUtente": "id599",
+    "password": "psw599",
+    "points": 0,
+    "friends": [
+      "id598"
+    ]
+  },
+  "id341": {
+    "nickUtente": "id341",
+    "password": "psw341",
+    "points": 0,
+    "friends": [
+      "id340"
+    ]
+  },
+  "id583": {
+    "nickUtente": "id583",
+    "password": "psw583",
+    "points": 0,
+    "friends": [
+      "id582"
+    ]
+  },
+  "id340": {
+    "nickUtente": "id340",
+    "password": "psw340",
+    "points": 0,
+    "friends": [
+      "id341"
+    ]
+  },
+  "id582": {
+    "nickUtente": "id582",
+    "password": "psw582",
+    "points": 0,
+    "friends": [
+      "id583"
+    ]
+  },
+  "id343": {
+    "nickUtente": "id343",
+    "password": "psw343",
+    "points": 0,
+    "friends": [
+      "id342"
+    ]
+  },
+  "id101": {
+    "nickUtente": "id101",
+    "password": "psw101",
+    "points": 0,
+    "friends": [
+      "id100"
+    ]
+  },
+  "id585": {
+    "nickUtente": "id585",
+    "password": "psw585",
+    "points": 0,
+    "friends": [
+      "id584"
+    ]
+  },
+  "id342": {
+    "nickUtente": "id342",
+    "password": "psw342",
+    "points": 0,
+    "friends": [
+      "id343"
+    ]
+  },
+  "id100": {
+    "nickUtente": "id100",
+    "password": "psw100",
+    "points": 0,
+    "friends": [
+      "id101"
+    ]
+  },
+  "id584": {
+    "nickUtente": "id584",
+    "password": "psw584",
+    "points": 0,
+    "friends": [
+      "id585"
+    ]
+  },
+  "id581": {
+    "nickUtente": "id581",
+    "password": "psw581",
+    "points": 0,
+    "friends": [
+      "id580"
+    ]
+  },
+  "id580": {
+    "nickUtente": "id580",
+    "password": "psw580",
+    "points": 0,
+    "friends": [
+      "id581"
+    ]
+  },
+  "id107": {
+    "nickUtente": "id107",
+    "password": "psw107",
+    "points": 0,
+    "friends": [
+      "id106"
+    ]
+  },
+  "id349": {
+    "nickUtente": "id349",
+    "password": "psw349",
+    "points": 0,
+    "friends": [
+      "id348"
+    ]
+  },
+  "id348": {
+    "nickUtente": "id348",
+    "password": "psw348",
+    "points": 0,
+    "friends": [
+      "id349"
+    ]
+  },
+  "id106": {
+    "nickUtente": "id106",
+    "password": "psw106",
+    "points": 0,
+    "friends": [
+      "id107"
+    ]
+  },
+  "id109": {
+    "nickUtente": "id109",
+    "password": "psw109",
+    "points": 0,
+    "friends": [
+      "id108"
+    ]
+  },
+  "id108": {
+    "nickUtente": "id108",
+    "password": "psw108",
+    "points": 0,
+    "friends": [
+      "id109"
+    ]
+  },
+  "id345": {
+    "nickUtente": "id345",
+    "password": "psw345",
+    "points": 0,
+    "friends": [
+      "id344"
+    ]
+  },
+  "id103": {
+    "nickUtente": "id103",
+    "password": "psw103",
+    "points": 0,
+    "friends": [
+      "id102"
+    ]
+  },
+  "id587": {
+    "nickUtente": "id587",
+    "password": "psw587",
+    "points": 0,
+    "friends": [
+      "id586"
+    ]
+  },
+  "id344": {
+    "nickUtente": "id344",
+    "password": "psw344",
+    "points": 0,
+    "friends": [
+      "id345"
+    ]
+  },
+  "id102": {
+    "nickUtente": "id102",
+    "password": "psw102",
+    "points": 0,
+    "friends": [
+      "id103"
+    ]
+  },
+  "id586": {
+    "nickUtente": "id586",
+    "password": "psw586",
+    "points": 0,
+    "friends": [
+      "id587"
+    ]
+  },
+  "id347": {
+    "nickUtente": "id347",
+    "password": "psw347",
+    "points": 0,
+    "friends": [
+      "id346"
+    ]
+  },
+  "id105": {
+    "nickUtente": "id105",
+    "password": "psw105",
+    "points": 0,
+    "friends": [
+      "id104"
+    ]
+  },
+  "id589": {
+    "nickUtente": "id589",
+    "password": "psw589",
+    "points": 0,
+    "friends": [
+      "id588"
+    ]
+  },
+  "id346": {
+    "nickUtente": "id346",
+    "password": "psw346",
+    "points": 0,
+    "friends": [
+      "id347"
+    ]
+  },
+  "id104": {
+    "nickUtente": "id104",
+    "password": "psw104",
+    "points": 0,
+    "friends": [
+      "id105"
+    ]
+  },
+  "id588": {
+    "nickUtente": "id588",
+    "password": "psw588",
+    "points": 0,
+    "friends": [
+      "id589"
+    ]
+  },
+  "id572": {
+    "nickUtente": "id572",
+    "password": "psw572",
+    "points": 0,
+    "friends": [
+      "id573"
+    ]
+  },
+  "id330": {
+    "nickUtente": "id330",
+    "password": "psw330",
+    "points": 0,
+    "friends": [
+      "id331"
+    ]
+  },
+  "id571": {
+    "nickUtente": "id571",
+    "password": "psw571",
+    "points": 0,
+    "friends": [
+      "id570"
+    ]
+  },
+  "id574": {
+    "nickUtente": "id574",
+    "password": "psw574",
+    "points": 0,
+    "friends": [
+      "id575"
+    ]
+  },
+  "id332": {
+    "nickUtente": "id332",
+    "password": "psw332",
+    "points": 0,
+    "friends": [
+      "id333"
+    ]
+  },
+  "id573": {
+    "nickUtente": "id573",
+    "password": "psw573",
+    "points": 0,
+    "friends": [
+      "id572"
+    ]
+  },
+  "id331": {
+    "nickUtente": "id331",
+    "password": "psw331",
+    "points": 0,
+    "friends": [
+      "id330"
+    ]
+  },
+  "id570": {
+    "nickUtente": "id570",
+    "password": "psw570",
+    "points": 0,
+    "friends": [
+      "id571"
+    ]
+  },
+  "id338": {
+    "nickUtente": "id338",
+    "password": "psw338",
+    "points": 0,
+    "friends": [
+      "id339"
+    ]
+  },
+  "id337": {
+    "nickUtente": "id337",
+    "password": "psw337",
+    "points": 0,
+    "friends": [
+      "id336"
+    ]
+  },
+  "id579": {
+    "nickUtente": "id579",
+    "password": "psw579",
+    "points": 0,
+    "friends": [
+      "id578"
+    ]
+  },
+  "id339": {
+    "nickUtente": "id339",
+    "password": "psw339",
+    "points": 0,
+    "friends": [
+      "id338"
+    ]
+  },
+  "id576": {
+    "nickUtente": "id576",
+    "password": "psw576",
+    "points": 0,
+    "friends": [
+      "id577"
+    ]
+  },
+  "id334": {
+    "nickUtente": "id334",
+    "password": "psw334",
+    "points": 0,
+    "friends": [
+      "id335"
+    ]
+  },
+  "id575": {
+    "nickUtente": "id575",
+    "password": "psw575",
+    "points": 0,
+    "friends": [
+      "id574"
+    ]
+  },
+  "id333": {
+    "nickUtente": "id333",
+    "password": "psw333",
+    "points": 0,
+    "friends": [
+      "id332"
+    ]
+  },
+  "id578": {
+    "nickUtente": "id578",
+    "password": "psw578",
+    "points": 0,
+    "friends": [
+      "id579"
+    ]
+  },
+  "id336": {
+    "nickUtente": "id336",
+    "password": "psw336",
+    "points": 0,
+    "friends": [
+      "id337"
+    ]
+  },
+  "id577": {
+    "nickUtente": "id577",
+    "password": "psw577",
+    "points": 0,
+    "friends": [
+      "id576"
+    ]
+  },
+  "id335": {
+    "nickUtente": "id335",
+    "password": "psw335",
+    "points": 0,
+    "friends": [
+      "id334"
+    ]
+  },
+  "id561": {
+    "nickUtente": "id561",
+    "password": "psw561",
+    "points": 0,
+    "friends": [
+      "id560"
+    ]
+  },
+  "id560": {
+    "nickUtente": "id560",
+    "password": "psw560",
+    "points": 0,
+    "friends": [
+      "id561"
+    ]
+  },
+  "id563": {
+    "nickUtente": "id563",
+    "password": "psw563",
+    "points": 0,
+    "friends": [
+      "id562"
+    ]
+  },
+  "id321": {
+    "nickUtente": "id321",
+    "password": "psw321",
+    "points": 0,
+    "friends": [
+      "id320"
+    ]
+  },
+  "id562": {
+    "nickUtente": "id562",
+    "password": "psw562",
+    "points": 0,
+    "friends": [
+      "id563"
+    ]
+  },
+  "id320": {
+    "nickUtente": "id320",
+    "password": "psw320",
+    "points": 0,
+    "friends": [
+      "id321"
+    ]
+  },
+  "id327": {
+    "nickUtente": "id327",
+    "password": "psw327",
+    "points": 0,
+    "friends": [
+      "id326"
+    ]
+  },
+  "id569": {
+    "nickUtente": "id569",
+    "password": "psw569",
+    "points": 0,
+    "friends": [
+      "id568"
+    ]
+  },
+  "id568": {
+    "nickUtente": "id568",
+    "password": "psw568",
+    "points": 0,
+    "friends": [
+      "id569"
+    ]
+  },
+  "id326": {
+    "nickUtente": "id326",
+    "password": "psw326",
+    "points": 0,
+    "friends": [
+      "id327"
+    ]
+  },
+  "id329": {
+    "nickUtente": "id329",
+    "password": "psw329",
+    "points": 0,
+    "friends": [
+      "id328"
+    ]
+  },
+  "id328": {
+    "nickUtente": "id328",
+    "password": "psw328",
+    "points": 0,
+    "friends": [
+      "id329"
+    ]
+  },
+  "id565": {
+    "nickUtente": "id565",
+    "password": "psw565",
+    "points": 0,
+    "friends": [
+      "id564"
+    ]
+  },
+  "id323": {
+    "nickUtente": "id323",
+    "password": "psw323",
+    "points": 0,
+    "friends": [
+      "id322"
+    ]
+  },
+  "id564": {
+    "nickUtente": "id564",
+    "password": "psw564",
+    "points": 0,
+    "friends": [
+      "id565"
+    ]
+  },
+  "id322": {
+    "nickUtente": "id322",
+    "password": "psw322",
+    "points": 0,
+    "friends": [
+      "id323"
+    ]
+  },
+  "id567": {
+    "nickUtente": "id567",
+    "password": "psw567",
+    "points": 0,
+    "friends": [
+      "id566"
+    ]
+  },
+  "id325": {
+    "nickUtente": "id325",
+    "password": "psw325",
+    "points": 0,
+    "friends": [
+      "id324"
+    ]
+  },
+  "id566": {
+    "nickUtente": "id566",
+    "password": "psw566",
+    "points": 0,
+    "friends": [
+      "id567"
+    ]
+  },
+  "id324": {
+    "nickUtente": "id324",
+    "password": "psw324",
+    "points": 0,
+    "friends": [
+      "id325"
+    ]
+  },
+  "id319": {
+    "nickUtente": "id319",
+    "password": "psw319",
+    "points": 0,
+    "friends": [
+      "id318"
+    ]
+  },
+  "id550": {
+    "nickUtente": "id550",
+    "password": "psw550",
+    "points": 0,
+    "friends": [
+      "id551"
+    ]
+  },
+  "id792": {
+    "nickUtente": "id792",
+    "password": "psw792",
+    "points": 0,
+    "friends": [
+      "id793"
+    ]
+  },
+  "id791": {
+    "nickUtente": "id791",
+    "password": "psw791",
+    "points": 0,
+    "friends": [
+      "id790"
+    ]
+  },
+  "id552": {
+    "nickUtente": "id552",
+    "password": "psw552",
+    "points": 0,
+    "friends": [
+      "id553"
+    ]
+  },
+  "id310": {
+    "nickUtente": "id310",
+    "password": "psw310",
+    "points": 0,
+    "friends": [
+      "id311"
+    ]
+  },
+  "id794": {
+    "nickUtente": "id794",
+    "password": "psw794",
+    "points": 0,
+    "friends": [
+      "id795"
+    ]
+  },
+  "id551": {
+    "nickUtente": "id551",
+    "password": "psw551",
+    "points": 0,
+    "friends": [
+      "id550"
+    ]
+  },
+  "id793": {
+    "nickUtente": "id793",
+    "password": "psw793",
+    "points": 0,
+    "friends": [
+      "id792"
+    ]
+  },
+  "id790": {
+    "nickUtente": "id790",
+    "password": "psw790",
+    "points": 0,
+    "friends": [
+      "id791"
+    ]
+  },
+  "id558": {
+    "nickUtente": "id558",
+    "password": "psw558",
+    "points": 0,
+    "friends": [
+      "id559"
+    ]
+  },
+  "id316": {
+    "nickUtente": "id316",
+    "password": "psw316",
+    "points": 0,
+    "friends": [
+      "id317"
+    ]
+  },
+  "id557": {
+    "nickUtente": "id557",
+    "password": "psw557",
+    "points": 0,
+    "friends": [
+      "id556"
+    ]
+  },
+  "id315": {
+    "nickUtente": "id315",
+    "password": "psw315",
+    "points": 0,
+    "friends": [
+      "id314"
+    ]
+  },
+  "id799": {
+    "nickUtente": "id799",
+    "password": "psw799",
+    "points": 0,
+    "friends": [
+      "id798"
+    ]
+  },
+  "id318": {
+    "nickUtente": "id318",
+    "password": "psw318",
+    "points": 0,
+    "friends": [
+      "id319"
+    ]
+  },
+  "id317": {
+    "nickUtente": "id317",
+    "password": "psw317",
+    "points": 0,
+    "friends": [
+      "id316"
+    ]
+  },
+  "id559": {
+    "nickUtente": "id559",
+    "password": "psw559",
+    "points": 0,
+    "friends": [
+      "id558"
+    ]
+  },
+  "id554": {
+    "nickUtente": "id554",
+    "password": "psw554",
+    "points": 0,
+    "friends": [
+      "id555"
+    ]
+  },
+  "id312": {
+    "nickUtente": "id312",
+    "password": "psw312",
+    "points": 0,
+    "friends": [
+      "id313"
+    ]
+  },
+  "id796": {
+    "nickUtente": "id796",
+    "password": "psw796",
+    "points": 0,
+    "friends": [
+      "id797"
+    ]
+  },
+  "id553": {
+    "nickUtente": "id553",
+    "password": "psw553",
+    "points": 0,
+    "friends": [
+      "id552"
+    ]
+  },
+  "id311": {
+    "nickUtente": "id311",
+    "password": "psw311",
+    "points": 0,
+    "friends": [
+      "id310"
+    ]
+  },
+  "id795": {
+    "nickUtente": "id795",
+    "password": "psw795",
+    "points": 0,
+    "friends": [
+      "id794"
+    ]
+  },
+  "id556": {
+    "nickUtente": "id556",
+    "password": "psw556",
+    "points": 0,
+    "friends": [
+      "id557"
+    ]
+  },
+  "id314": {
+    "nickUtente": "id314",
+    "password": "psw314",
+    "points": 0,
+    "friends": [
+      "id315"
+    ]
+  },
+  "id798": {
+    "nickUtente": "id798",
+    "password": "psw798",
+    "points": 0,
+    "friends": [
+      "id799"
+    ]
+  },
+  "id555": {
+    "nickUtente": "id555",
+    "password": "psw555",
+    "points": 0,
+    "friends": [
+      "id554"
+    ]
+  },
+  "id313": {
+    "nickUtente": "id313",
+    "password": "psw313",
+    "points": 0,
+    "friends": [
+      "id312"
+    ]
+  },
+  "id797": {
+    "nickUtente": "id797",
+    "password": "psw797",
+    "points": 0,
+    "friends": [
+      "id796"
+    ]
+  },
+  "id309": {
+    "nickUtente": "id309",
+    "password": "psw309",
+    "points": 0,
+    "friends": [
+      "id308"
+    ]
+  },
+  "id308": {
+    "nickUtente": "id308",
+    "password": "psw308",
+    "points": 0,
+    "friends": [
+      "id309"
+    ]
+  },
+  "id781": {
+    "nickUtente": "id781",
+    "password": "psw781",
+    "points": 0,
+    "friends": [
+      "id780"
+    ]
+  },
+  "id780": {
+    "nickUtente": "id780",
+    "password": "psw780",
+    "points": 0,
+    "friends": [
+      "id781"
+    ]
+  },
+  "id541": {
+    "nickUtente": "id541",
+    "password": "psw541",
+    "points": 0,
+    "friends": [
+      "id540"
+    ]
+  },
+  "id783": {
+    "nickUtente": "id783",
+    "password": "psw783",
+    "points": 0,
+    "friends": [
+      "id782"
+    ]
+  },
+  "id540": {
+    "nickUtente": "id540",
+    "password": "psw540",
+    "points": 0,
+    "friends": [
+      "id541"
+    ]
+  },
+  "id782": {
+    "nickUtente": "id782",
+    "password": "psw782",
+    "points": 0,
+    "friends": [
+      "id783"
+    ]
+  },
+  "id547": {
+    "nickUtente": "id547",
+    "password": "psw547",
+    "points": 0,
+    "friends": [
+      "id546"
+    ]
+  },
+  "id305": {
+    "nickUtente": "id305",
+    "password": "psw305",
+    "points": 0,
+    "friends": [
+      "id304"
+    ]
+  },
+  "id789": {
+    "nickUtente": "id789",
+    "password": "psw789",
+    "points": 0,
+    "friends": [
+      "id788"
+    ]
+  },
+  "id546": {
+    "nickUtente": "id546",
+    "password": "psw546",
+    "points": 0,
+    "friends": [
+      "id547"
+    ]
+  },
+  "id304": {
+    "nickUtente": "id304",
+    "password": "psw304",
+    "points": 0,
+    "friends": [
+      "id305"
+    ]
+  },
+  "id788": {
+    "nickUtente": "id788",
+    "password": "psw788",
+    "points": 0,
+    "friends": [
+      "id789"
+    ]
+  },
+  "id307": {
+    "nickUtente": "id307",
+    "password": "psw307",
+    "points": 0,
+    "friends": [
+      "id306"
+    ]
+  },
+  "id549": {
+    "nickUtente": "id549",
+    "password": "psw549",
+    "points": 0,
+    "friends": [
+      "id548"
+    ]
+  },
+  "id548": {
+    "nickUtente": "id548",
+    "password": "psw548",
+    "points": 0,
+    "friends": [
+      "id549"
+    ]
+  },
+  "id306": {
+    "nickUtente": "id306",
+    "password": "psw306",
+    "points": 0,
+    "friends": [
+      "id307"
+    ]
+  },
+  "id543": {
+    "nickUtente": "id543",
+    "password": "psw543",
+    "points": 0,
+    "friends": [
+      "id542"
+    ]
+  },
+  "id301": {
+    "nickUtente": "id301",
+    "password": "psw301",
+    "points": 0,
+    "friends": [
+      "id300"
+    ]
+  },
+  "id785": {
+    "nickUtente": "id785",
+    "password": "psw785",
+    "points": 0,
+    "friends": [
+      "id784"
+    ]
+  },
+  "id542": {
+    "nickUtente": "id542",
+    "password": "psw542",
+    "points": 0,
+    "friends": [
+      "id543"
+    ]
+  },
+  "id300": {
+    "nickUtente": "id300",
+    "password": "psw300",
+    "points": 0,
+    "friends": [
+      "id301"
+    ]
+  },
+  "id784": {
+    "nickUtente": "id784",
+    "password": "psw784",
+    "points": 0,
+    "friends": [
+      "id785"
+    ]
+  },
+  "id545": {
+    "nickUtente": "id545",
+    "password": "psw545",
+    "points": 0,
+    "friends": [
+      "id544"
+    ]
+  },
+  "id303": {
+    "nickUtente": "id303",
+    "password": "psw303",
+    "points": 0,
+    "friends": [
+      "id302"
+    ]
+  },
+  "id787": {
+    "nickUtente": "id787",
+    "password": "psw787",
+    "points": 0,
+    "friends": [
+      "id786"
+    ]
+  },
+  "id544": {
+    "nickUtente": "id544",
+    "password": "psw544",
+    "points": 0,
+    "friends": [
+      "id545"
+    ]
+  },
+  "id302": {
+    "nickUtente": "id302",
+    "password": "psw302",
+    "points": 0,
+    "friends": [
+      "id303"
+    ]
+  },
+  "id786": {
+    "nickUtente": "id786",
+    "password": "psw786",
+    "points": 0,
+    "friends": [
+      "id787"
+    ]
+  },
+  "id539": {
+    "nickUtente": "id539",
+    "password": "psw539",
+    "points": 0,
+    "friends": [
+      "id538"
+    ]
+  },
+  "id770": {
+    "nickUtente": "id770",
+    "password": "psw770",
+    "points": 0,
+    "friends": [
+      "id771"
+    ]
+  },
+  "id530": {
+    "nickUtente": "id530",
+    "password": "psw530",
+    "points": 0,
+    "friends": [
+      "id531"
+    ]
+  },
+  "id772": {
+    "nickUtente": "id772",
+    "password": "psw772",
+    "points": 0,
+    "friends": [
+      "id773"
+    ]
+  },
+  "id771": {
+    "nickUtente": "id771",
+    "password": "psw771",
+    "points": 0,
+    "friends": [
+      "id770"
+    ]
+  },
+  "id536": {
+    "nickUtente": "id536",
+    "password": "psw536",
+    "points": 0,
+    "friends": [
+      "id537"
+    ]
+  },
+  "id778": {
+    "nickUtente": "id778",
+    "password": "psw778",
+    "points": 0,
+    "friends": [
+      "id779"
+    ]
+  },
+  "id535": {
+    "nickUtente": "id535",
+    "password": "psw535",
+    "points": 0,
+    "friends": [
+      "id534"
+    ]
+  },
+  "id777": {
+    "nickUtente": "id777",
+    "password": "psw777",
+    "points": 0,
+    "friends": [
+      "id776"
+    ]
+  },
+  "id538": {
+    "nickUtente": "id538",
+    "password": "psw538",
+    "points": 0,
+    "friends": [
+      "id539"
+    ]
+  },
+  "id537": {
+    "nickUtente": "id537",
+    "password": "psw537",
+    "points": 0,
+    "friends": [
+      "id536"
+    ]
+  },
+  "id779": {
+    "nickUtente": "id779",
+    "password": "psw779",
+    "points": 0,
+    "friends": [
+      "id778"
+    ]
+  },
+  "id532": {
+    "nickUtente": "id532",
+    "password": "psw532",
+    "points": 0,
+    "friends": [
+      "id533"
+    ]
+  },
+  "id774": {
+    "nickUtente": "id774",
+    "password": "psw774",
+    "points": 0,
+    "friends": [
+      "id775"
+    ]
+  },
+  "id531": {
+    "nickUtente": "id531",
+    "password": "psw531",
+    "points": 0,
+    "friends": [
+      "id530"
+    ]
+  },
+  "id773": {
+    "nickUtente": "id773",
+    "password": "psw773",
+    "points": 0,
+    "friends": [
+      "id772"
+    ]
+  },
+  "id534": {
+    "nickUtente": "id534",
+    "password": "psw534",
+    "points": 0,
+    "friends": [
+      "id535"
+    ]
+  },
+  "id776": {
+    "nickUtente": "id776",
+    "password": "psw776",
+    "points": 0,
+    "friends": [
+      "id777"
+    ]
+  },
+  "id533": {
+    "nickUtente": "id533",
+    "password": "psw533",
+    "points": 0,
+    "friends": [
+      "id532"
+    ]
+  },
+  "id775": {
+    "nickUtente": "id775",
+    "password": "psw775",
+    "points": 0,
+    "friends": [
+      "id774"
+    ]
+  },
+  "id529": {
+    "nickUtente": "id529",
+    "password": "psw529",
+    "points": 0,
+    "friends": [
+      "id528"
+    ]
+  },
+  "id528": {
+    "nickUtente": "id528",
+    "password": "psw528",
+    "points": 0,
+    "friends": [
+      "id529"
+    ]
+  },
+  "id761": {
+    "nickUtente": "id761",
+    "password": "psw761",
+    "points": 0,
+    "friends": [
+      "id760"
+    ]
+  },
+  "id760": {
+    "nickUtente": "id760",
+    "password": "psw760",
+    "points": 0,
+    "friends": [
+      "id761"
+    ]
+  },
+  "id525": {
+    "nickUtente": "id525",
+    "password": "psw525",
+    "points": 0,
+    "friends": [
+      "id524"
+    ]
+  },
+  "id767": {
+    "nickUtente": "id767",
+    "password": "psw767",
+    "points": 0,
+    "friends": [
+      "id766"
+    ]
+  },
+  "id524": {
+    "nickUtente": "id524",
+    "password": "psw524",
+    "points": 0,
+    "friends": [
+      "id525"
+    ]
+  },
+  "id766": {
+    "nickUtente": "id766",
+    "password": "psw766",
+    "points": 0,
+    "friends": [
+      "id767"
+    ]
+  },
+  "id527": {
+    "nickUtente": "id527",
+    "password": "psw527",
+    "points": 0,
+    "friends": [
+      "id526"
+    ]
+  },
+  "id769": {
+    "nickUtente": "id769",
+    "password": "psw769",
+    "points": 0,
+    "friends": [
+      "id768"
+    ]
+  },
+  "id526": {
+    "nickUtente": "id526",
+    "password": "psw526",
+    "points": 0,
+    "friends": [
+      "id527"
+    ]
+  },
+  "id768": {
+    "nickUtente": "id768",
+    "password": "psw768",
+    "points": 0,
+    "friends": [
+      "id769"
+    ]
+  },
+  "id521": {
+    "nickUtente": "id521",
+    "password": "psw521",
+    "points": 0,
+    "friends": [
+      "id520"
+    ]
+  },
+  "id763": {
+    "nickUtente": "id763",
+    "password": "psw763",
+    "points": 0,
+    "friends": [
+      "id762"
+    ]
+  },
+  "id520": {
+    "nickUtente": "id520",
+    "password": "psw520",
+    "points": 0,
+    "friends": [
+      "id521"
+    ]
+  },
+  "id762": {
+    "nickUtente": "id762",
+    "password": "psw762",
+    "points": 0,
+    "friends": [
+      "id763"
+    ]
+  },
+  "id523": {
+    "nickUtente": "id523",
+    "password": "psw523",
+    "points": 0,
+    "friends": [
+      "id522"
+    ]
+  },
+  "id765": {
+    "nickUtente": "id765",
+    "password": "psw765",
+    "points": 0,
+    "friends": [
+      "id764"
+    ]
+  },
+  "id522": {
+    "nickUtente": "id522",
+    "password": "psw522",
+    "points": 0,
+    "friends": [
+      "id523"
+    ]
+  },
+  "id764": {
+    "nickUtente": "id764",
+    "password": "psw764",
+    "points": 0,
+    "friends": [
+      "id765"
+    ]
+  },
+  "id518": {
+    "nickUtente": "id518",
+    "password": "psw518",
+    "points": 0,
+    "friends": [
+      "id519"
+    ]
+  },
+  "id517": {
+    "nickUtente": "id517",
+    "password": "psw517",
+    "points": 0,
+    "friends": [
+      "id516"
+    ]
+  },
+  "id759": {
+    "nickUtente": "id759",
+    "password": "psw759",
+    "points": 0,
+    "friends": [
+      "id758"
+    ]
+  },
+  "id519": {
+    "nickUtente": "id519",
+    "password": "psw519",
+    "points": 0,
+    "friends": [
+      "id518"
+    ]
+  },
+  "id990": {
+    "nickUtente": "id990",
+    "password": "psw990",
+    "points": 0,
+    "friends": [
+      "id991"
+    ]
+  },
+  "id750": {
+    "nickUtente": "id750",
+    "password": "psw750",
+    "points": 0,
+    "friends": [
+      "id751"
+    ]
+  },
+  "id992": {
+    "nickUtente": "id992",
+    "password": "psw992",
+    "points": 0,
+    "friends": [
+      "id993"
+    ]
+  },
+  "id991": {
+    "nickUtente": "id991",
+    "password": "psw991",
+    "points": 0,
+    "friends": [
+      "id990"
+    ]
+  },
+  "id514": {
+    "nickUtente": "id514",
+    "password": "psw514",
+    "points": 0,
+    "friends": [
+      "id515"
+    ]
+  },
+  "id756": {
+    "nickUtente": "id756",
+    "password": "psw756",
+    "points": 0,
+    "friends": [
+      "id757"
+    ]
+  },
+  "id998": {
+    "nickUtente": "id998",
+    "password": "psw998",
+    "points": 0,
+    "friends": [
+      "id999"
+    ]
+  },
+  "id513": {
+    "nickUtente": "id513",
+    "password": "psw513",
+    "points": 0,
+    "friends": [
+      "id512"
+    ]
+  },
+  "id755": {
+    "nickUtente": "id755",
+    "password": "psw755",
+    "points": 0,
+    "friends": [
+      "id754"
+    ]
+  },
+  "id997": {
+    "nickUtente": "id997",
+    "password": "psw997",
+    "points": 0,
+    "friends": [
+      "id996"
+    ]
+  },
+  "id516": {
+    "nickUtente": "id516",
+    "password": "psw516",
+    "points": 0,
+    "friends": [
+      "id517"
+    ]
+  },
+  "id758": {
+    "nickUtente": "id758",
+    "password": "psw758",
+    "points": 0,
+    "friends": [
+      "id759"
+    ]
+  },
+  "id515": {
+    "nickUtente": "id515",
+    "password": "psw515",
+    "points": 0,
+    "friends": [
+      "id514"
+    ]
+  },
+  "id757": {
+    "nickUtente": "id757",
+    "password": "psw757",
+    "points": 0,
+    "friends": [
+      "id756"
+    ]
+  },
+  "id999": {
+    "nickUtente": "id999",
+    "password": "psw999",
+    "points": 0,
+    "friends": [
+      "id998"
+    ]
+  },
+  "id510": {
+    "nickUtente": "id510",
+    "password": "psw510",
+    "points": 0,
+    "friends": [
+      "id511"
+    ]
+  },
+  "id752": {
+    "nickUtente": "id752",
+    "password": "psw752",
+    "points": 0,
+    "friends": [
+      "id753"
+    ]
+  },
+  "id994": {
+    "nickUtente": "id994",
+    "password": "psw994",
+    "points": 0,
+    "friends": [
+      "id995"
+    ]
+  },
+  "id751": {
+    "nickUtente": "id751",
+    "password": "psw751",
+    "points": 0,
+    "friends": [
+      "id750"
+    ]
+  },
+  "id993": {
+    "nickUtente": "id993",
+    "password": "psw993",
+    "points": 0,
+    "friends": [
+      "id992"
+    ]
+  },
+  "id512": {
+    "nickUtente": "id512",
+    "password": "psw512",
+    "points": 0,
+    "friends": [
+      "id513"
+    ]
+  },
+  "id754": {
+    "nickUtente": "id754",
+    "password": "psw754",
+    "points": 0,
+    "friends": [
+      "id755"
+    ]
+  },
+  "id996": {
+    "nickUtente": "id996",
+    "password": "psw996",
+    "points": 0,
+    "friends": [
+      "id997"
+    ]
+  },
+  "id511": {
+    "nickUtente": "id511",
+    "password": "psw511",
+    "points": 0,
+    "friends": [
+      "id510"
+    ]
+  },
+  "id753": {
+    "nickUtente": "id753",
+    "password": "psw753",
+    "points": 0,
+    "friends": [
+      "id752"
+    ]
+  },
+  "id995": {
+    "nickUtente": "id995",
+    "password": "psw995",
+    "points": 0,
+    "friends": [
+      "id994"
+    ]
+  },
+  "id507": {
+    "nickUtente": "id507",
+    "password": "psw507",
+    "points": 0,
+    "friends": [
+      "id506"
+    ]
+  },
+  "id749": {
+    "nickUtente": "id749",
+    "password": "psw749",
+    "points": 0,
+    "friends": [
+      "id748"
+    ]
+  },
+  "id506": {
+    "nickUtente": "id506",
+    "password": "psw506",
+    "points": 0,
+    "friends": [
+      "id507"
+    ]
+  },
+  "id748": {
+    "nickUtente": "id748",
+    "password": "psw748",
+    "points": 0,
+    "friends": [
+      "id749"
+    ]
+  },
+  "id509": {
+    "nickUtente": "id509",
+    "password": "psw509",
+    "points": 0,
+    "friends": [
+      "id508"
+    ]
+  },
+  "id508": {
+    "nickUtente": "id508",
+    "password": "psw508",
+    "points": 0,
+    "friends": [
+      "id509"
+    ]
+  },
+  "id860": {
+    "nickUtente": "id860",
+    "password": "psw860",
+    "points": 0,
+    "friends": [
+      "id861"
+    ]
+  },
+  "id624": {
+    "nickUtente": "id624",
+    "password": "psw624",
+    "points": 0,
+    "friends": [
+      "id625"
+    ]
+  },
+  "id866": {
+    "nickUtente": "id866",
+    "password": "psw866",
+    "points": 0,
+    "friends": [
+      "id867"
+    ]
+  },
+  "id623": {
+    "nickUtente": "id623",
+    "password": "psw623",
+    "points": 0,
+    "friends": [
+      "id622"
+    ]
+  },
+  "id865": {
+    "nickUtente": "id865",
+    "password": "psw865",
+    "points": 0,
+    "friends": [
+      "id864"
+    ]
+  },
+  "id626": {
+    "nickUtente": "id626",
+    "password": "psw626",
+    "points": 0,
+    "friends": [
+      "id627"
+    ]
+  },
+  "id868": {
+    "nickUtente": "id868",
+    "password": "psw868",
+    "points": 0,
+    "friends": [
+      "id869"
+    ]
+  },
+  "id625": {
+    "nickUtente": "id625",
+    "password": "psw625",
+    "points": 0,
+    "friends": [
+      "id624"
+    ]
+  },
+  "id867": {
+    "nickUtente": "id867",
+    "password": "psw867",
+    "points": 0,
+    "friends": [
+      "id866"
+    ]
+  },
+  "id620": {
+    "nickUtente": "id620",
+    "password": "psw620",
+    "points": 0,
+    "friends": [
+      "id621"
+    ]
+  },
+  "id862": {
+    "nickUtente": "id862",
+    "password": "psw862",
+    "points": 0,
+    "friends": [
+      "id863"
+    ]
+  },
+  "id861": {
+    "nickUtente": "id861",
+    "password": "psw861",
+    "points": 0,
+    "friends": [
+      "id860"
+    ]
+  },
+  "id622": {
+    "nickUtente": "id622",
+    "password": "psw622",
+    "points": 0,
+    "friends": [
+      "id623"
+    ]
+  },
+  "id864": {
+    "nickUtente": "id864",
+    "password": "psw864",
+    "points": 0,
+    "friends": [
+      "id865"
+    ]
+  },
+  "id621": {
+    "nickUtente": "id621",
+    "password": "psw621",
+    "points": 0,
+    "friends": [
+      "id620"
+    ]
+  },
+  "id863": {
+    "nickUtente": "id863",
+    "password": "psw863",
+    "points": 0,
+    "friends": [
+      "id862"
+    ]
+  },
+  "id617": {
+    "nickUtente": "id617",
+    "password": "psw617",
+    "points": 0,
+    "friends": [
+      "id616"
+    ]
+  },
+  "id859": {
+    "nickUtente": "id859",
+    "password": "psw859",
+    "points": 0,
+    "friends": [
+      "id858"
+    ]
+  },
+  "id616": {
+    "nickUtente": "id616",
+    "password": "psw616",
+    "points": 0,
+    "friends": [
+      "id617"
+    ]
+  },
+  "id858": {
+    "nickUtente": "id858",
+    "password": "psw858",
+    "points": 0,
+    "friends": [
+      "id859"
+    ]
+  },
+  "id619": {
+    "nickUtente": "id619",
+    "password": "psw619",
+    "points": 0,
+    "friends": [
+      "id618"
+    ]
+  },
+  "id618": {
+    "nickUtente": "id618",
+    "password": "psw618",
+    "points": 0,
+    "friends": [
+      "id619"
+    ]
+  },
+  "id613": {
+    "nickUtente": "id613",
+    "password": "psw613",
+    "points": 0,
+    "friends": [
+      "id612"
+    ]
+  },
+  "id855": {
+    "nickUtente": "id855",
+    "password": "psw855",
+    "points": 0,
+    "friends": [
+      "id854"
+    ]
+  },
+  "id612": {
+    "nickUtente": "id612",
+    "password": "psw612",
+    "points": 0,
+    "friends": [
+      "id613"
+    ]
+  },
+  "id854": {
+    "nickUtente": "id854",
+    "password": "psw854",
+    "points": 0,
+    "friends": [
+      "id855"
+    ]
+  },
+  "id615": {
+    "nickUtente": "id615",
+    "password": "psw615",
+    "points": 0,
+    "friends": [
+      "id614"
+    ]
+  },
+  "id857": {
+    "nickUtente": "id857",
+    "password": "psw857",
+    "points": 0,
+    "friends": [
+      "id856"
+    ]
+  },
+  "id614": {
+    "nickUtente": "id614",
+    "password": "psw614",
+    "points": 0,
+    "friends": [
+      "id615"
+    ]
+  },
+  "id856": {
+    "nickUtente": "id856",
+    "password": "psw856",
+    "points": 0,
+    "friends": [
+      "id857"
+    ]
+  },
+  "id851": {
+    "nickUtente": "id851",
+    "password": "psw851",
+    "points": 0,
+    "friends": [
+      "id850"
+    ]
+  },
+  "id850": {
+    "nickUtente": "id850",
+    "password": "psw850",
+    "points": 0,
+    "friends": [
+      "id851"
+    ]
+  },
+  "id611": {
+    "nickUtente": "id611",
+    "password": "psw611",
+    "points": 0,
+    "friends": [
+      "id610"
+    ]
+  },
+  "id853": {
+    "nickUtente": "id853",
+    "password": "psw853",
+    "points": 0,
+    "friends": [
+      "id852"
+    ]
+  },
+  "id610": {
+    "nickUtente": "id610",
+    "password": "psw610",
+    "points": 0,
+    "friends": [
+      "id611"
+    ]
+  },
+  "id852": {
+    "nickUtente": "id852",
+    "password": "psw852",
+    "points": 0,
+    "friends": [
+      "id853"
+    ]
+  },
+  "id609": {
+    "nickUtente": "id609",
+    "password": "psw609",
+    "points": 0,
+    "friends": [
+      "id608"
+    ]
+  },
+  "id606": {
+    "nickUtente": "id606",
+    "password": "psw606",
+    "points": 0,
+    "friends": [
+      "id607"
+    ]
+  },
+  "id848": {
+    "nickUtente": "id848",
+    "password": "psw848",
+    "points": 0,
+    "friends": [
+      "id849"
+    ]
+  },
+  "id605": {
+    "nickUtente": "id605",
+    "password": "psw605",
+    "points": 0,
+    "friends": [
+      "id604"
+    ]
+  },
+  "id847": {
+    "nickUtente": "id847",
+    "password": "psw847",
+    "points": 0,
+    "friends": [
+      "id846"
+    ]
+  },
+  "id608": {
+    "nickUtente": "id608",
+    "password": "psw608",
+    "points": 0,
+    "friends": [
+      "id609"
+    ]
+  },
+  "id607": {
+    "nickUtente": "id607",
+    "password": "psw607",
+    "points": 0,
+    "friends": [
+      "id606"
+    ]
+  },
+  "id849": {
+    "nickUtente": "id849",
+    "password": "psw849",
+    "points": 0,
+    "friends": [
+      "id848"
+    ]
+  },
+  "id602": {
+    "nickUtente": "id602",
+    "password": "psw602",
+    "points": 0,
+    "friends": [
+      "id603"
+    ]
+  },
+  "id844": {
+    "nickUtente": "id844",
+    "password": "psw844",
+    "points": 0,
+    "friends": [
+      "id845"
+    ]
+  },
+  "id601": {
+    "nickUtente": "id601",
+    "password": "psw601",
+    "points": 0,
+    "friends": [
+      "id600"
+    ]
+  },
+  "id843": {
+    "nickUtente": "id843",
+    "password": "psw843",
+    "points": 0,
+    "friends": [
+      "id842"
+    ]
+  },
+  "id604": {
+    "nickUtente": "id604",
+    "password": "psw604",
+    "points": 0,
+    "friends": [
+      "id605"
+    ]
+  },
+  "id846": {
+    "nickUtente": "id846",
+    "password": "psw846",
+    "points": 0,
+    "friends": [
+      "id847"
+    ]
+  },
+  "id603": {
+    "nickUtente": "id603",
+    "password": "psw603",
+    "points": 0,
+    "friends": [
+      "id602"
+    ]
+  },
+  "id845": {
+    "nickUtente": "id845",
+    "password": "psw845",
+    "points": 0,
+    "friends": [
+      "id844"
+    ]
+  },
+  "id840": {
+    "nickUtente": "id840",
+    "password": "psw840",
+    "points": 0,
+    "friends": [
+      "id841"
+    ]
+  },
+  "id600": {
+    "nickUtente": "id600",
+    "password": "psw600",
+    "points": 0,
+    "friends": [
+      "id601"
+    ]
+  },
+  "id842": {
+    "nickUtente": "id842",
+    "password": "psw842",
+    "points": 0,
+    "friends": [
+      "id843"
+    ]
+  },
+  "id841": {
+    "nickUtente": "id841",
+    "password": "psw841",
+    "points": 0,
+    "friends": [
+      "id840"
+    ]
+  },
+  "id837": {
+    "nickUtente": "id837",
+    "password": "psw837",
+    "points": 0,
+    "friends": [
+      "id836"
+    ]
+  },
+  "id836": {
+    "nickUtente": "id836",
+    "password": "psw836",
+    "points": 0,
+    "friends": [
+      "id837"
+    ]
+  },
+  "id839": {
+    "nickUtente": "id839",
+    "password": "psw839",
+    "points": 0,
+    "friends": [
+      "id838"
+    ]
+  },
+  "id838": {
+    "nickUtente": "id838",
+    "password": "psw838",
+    "points": 0,
+    "friends": [
+      "id839"
+    ]
+  },
+  "id833": {
+    "nickUtente": "id833",
+    "password": "psw833",
+    "points": 0,
+    "friends": [
+      "id832"
+    ]
+  },
+  "id832": {
+    "nickUtente": "id832",
+    "password": "psw832",
+    "points": 0,
+    "friends": [
+      "id833"
+    ]
+  },
+  "id835": {
+    "nickUtente": "id835",
+    "password": "psw835",
+    "points": 0,
+    "friends": [
+      "id834"
+    ]
+  },
+  "id834": {
+    "nickUtente": "id834",
+    "password": "psw834",
+    "points": 0,
+    "friends": [
+      "id835"
+    ]
+  },
+  "id831": {
+    "nickUtente": "id831",
+    "password": "psw831",
+    "points": 0,
+    "friends": [
+      "id830"
+    ]
+  },
+  "id830": {
+    "nickUtente": "id830",
+    "password": "psw830",
+    "points": 0,
+    "friends": [
+      "id831"
+    ]
+  },
+  "id829": {
+    "nickUtente": "id829",
+    "password": "psw829",
+    "points": 0,
+    "friends": [
+      "id828"
+    ]
+  },
+  "id826": {
+    "nickUtente": "id826",
+    "password": "psw826",
+    "points": 0,
+    "friends": [
+      "id827"
+    ]
+  },
+  "id825": {
+    "nickUtente": "id825",
+    "password": "psw825",
+    "points": 0,
+    "friends": [
+      "id824"
+    ]
+  },
+  "id828": {
+    "nickUtente": "id828",
+    "password": "psw828",
+    "points": 0,
+    "friends": [
+      "id829"
+    ]
+  },
+  "id827": {
+    "nickUtente": "id827",
+    "password": "psw827",
+    "points": 0,
+    "friends": [
+      "id826"
+    ]
+  },
+  "id822": {
+    "nickUtente": "id822",
+    "password": "psw822",
+    "points": 0,
+    "friends": [
+      "id823"
+    ]
+  },
+  "id821": {
+    "nickUtente": "id821",
+    "password": "psw821",
+    "points": 0,
+    "friends": [
+      "id820"
+    ]
+  },
+  "id824": {
+    "nickUtente": "id824",
+    "password": "psw824",
+    "points": 0,
+    "friends": [
+      "id825"
+    ]
+  },
+  "id823": {
+    "nickUtente": "id823",
+    "password": "psw823",
+    "points": 0,
+    "friends": [
+      "id822"
+    ]
+  },
+  "id820": {
+    "nickUtente": "id820",
+    "password": "psw820",
+    "points": 0,
+    "friends": [
+      "id821"
+    ]
+  },
+  "id819": {
+    "nickUtente": "id819",
+    "password": "psw819",
+    "points": 0,
+    "friends": [
+      "id818"
+    ]
+  },
+  "id818": {
+    "nickUtente": "id818",
+    "password": "psw818",
+    "points": 0,
+    "friends": [
+      "id819"
+    ]
+  },
+  "id815": {
+    "nickUtente": "id815",
+    "password": "psw815",
+    "points": 0,
+    "friends": [
+      "id814"
+    ]
+  },
+  "id814": {
+    "nickUtente": "id814",
+    "password": "psw814",
+    "points": 0,
+    "friends": [
+      "id815"
+    ]
+  },
+  "id817": {
+    "nickUtente": "id817",
+    "password": "psw817",
+    "points": 0,
+    "friends": [
+      "id816"
+    ]
+  },
+  "id816": {
+    "nickUtente": "id816",
+    "password": "psw816",
+    "points": 0,
+    "friends": [
+      "id817"
+    ]
+  },
+  "id811": {
+    "nickUtente": "id811",
+    "password": "psw811",
+    "points": 0,
+    "friends": [
+      "id810"
+    ]
+  },
+  "id810": {
+    "nickUtente": "id810",
+    "password": "psw810",
+    "points": 0,
+    "friends": [
+      "id811"
+    ]
+  },
+  "id813": {
+    "nickUtente": "id813",
+    "password": "psw813",
+    "points": 0,
+    "friends": [
+      "id812"
+    ]
+  },
+  "id812": {
+    "nickUtente": "id812",
+    "password": "psw812",
+    "points": 0,
+    "friends": [
+      "id813"
+    ]
+  },
+  "id808": {
+    "nickUtente": "id808",
+    "password": "psw808",
+    "points": 0,
+    "friends": [
+      "id809"
+    ]
+  },
+  "id807": {
+    "nickUtente": "id807",
+    "password": "psw807",
+    "points": 0,
+    "friends": [
+      "id806"
+    ]
+  },
+  "id809": {
+    "nickUtente": "id809",
+    "password": "psw809",
+    "points": 0,
+    "friends": [
+      "id808"
+    ]
+  },
+  "id804": {
+    "nickUtente": "id804",
+    "password": "psw804",
+    "points": 0,
+    "friends": [
+      "id805"
+    ]
+  },
+  "id803": {
+    "nickUtente": "id803",
+    "password": "psw803",
+    "points": 0,
+    "friends": [
+      "id802"
+    ]
+  },
+  "id806": {
+    "nickUtente": "id806",
+    "password": "psw806",
+    "points": 0,
+    "friends": [
+      "id807"
+    ]
+  },
+  "id805": {
+    "nickUtente": "id805",
+    "password": "psw805",
+    "points": 0,
+    "friends": [
+      "id804"
+    ]
+  },
+  "id800": {
+    "nickUtente": "id800",
+    "password": "psw800",
+    "points": 0,
+    "friends": [
+      "id801"
+    ]
+  },
+  "id802": {
+    "nickUtente": "id802",
+    "password": "psw802",
+    "points": 0,
+    "friends": [
+      "id803"
+    ]
+  },
+  "id801": {
+    "nickUtente": "id801",
+    "password": "psw801",
+    "points": 0,
+    "friends": [
+      "id800"
+    ]
+  },
+  "id198": {
+    "nickUtente": "id198",
+    "password": "psw198",
+    "points": 0,
+    "friends": [
+      "id199"
+    ]
+  },
+  "id197": {
+    "nickUtente": "id197",
+    "password": "psw197",
+    "points": 0,
+    "friends": [
+      "id196"
+    ]
+  },
+  "id199": {
+    "nickUtente": "id199",
+    "password": "psw199",
+    "points": 0,
+    "friends": [
+      "id198"
+    ]
+  },
+  "id194": {
+    "nickUtente": "id194",
+    "password": "psw194",
+    "points": 0,
+    "friends": [
+      "id195"
+    ]
+  },
+  "id193": {
+    "nickUtente": "id193",
+    "password": "psw193",
+    "points": 0,
+    "friends": [
+      "id192"
+    ]
+  },
+  "id196": {
+    "nickUtente": "id196",
+    "password": "psw196",
+    "points": 0,
+    "friends": [
+      "id197"
+    ]
+  },
+  "id195": {
+    "nickUtente": "id195",
+    "password": "psw195",
+    "points": 0,
+    "friends": [
+      "id194"
+    ]
+  },
+  "id190": {
+    "nickUtente": "id190",
+    "password": "psw190",
+    "points": 0,
+    "friends": [
+      "id191"
+    ]
+  },
+  "id192": {
+    "nickUtente": "id192",
+    "password": "psw192",
+    "points": 0,
+    "friends": [
+      "id193"
+    ]
+  },
+  "id191": {
+    "nickUtente": "id191",
+    "password": "psw191",
+    "points": 0,
+    "friends": [
+      "id190"
+    ]
+  },
+  "id297": {
+    "nickUtente": "id297",
+    "password": "psw297",
+    "points": 0,
+    "friends": [
+      "id296"
+    ]
+  },
+  "id296": {
+    "nickUtente": "id296",
+    "password": "psw296",
+    "points": 0,
+    "friends": [
+      "id297"
+    ]
+  },
+  "id299": {
+    "nickUtente": "id299",
+    "password": "psw299",
+    "points": 0,
+    "friends": [
+      "id298"
+    ]
+  },
+  "id298": {
+    "nickUtente": "id298",
+    "password": "psw298",
+    "points": 0,
+    "friends": [
+      "id299"
+    ]
+  },
+  "id293": {
+    "nickUtente": "id293",
+    "password": "psw293",
+    "points": 0,
+    "friends": [
+      "id292"
+    ]
+  },
+  "id292": {
+    "nickUtente": "id292",
+    "password": "psw292",
+    "points": 0,
+    "friends": [
+      "id293"
+    ]
+  },
+  "id295": {
+    "nickUtente": "id295",
+    "password": "psw295",
+    "points": 0,
+    "friends": [
+      "id294"
+    ]
+  },
+  "id294": {
+    "nickUtente": "id294",
+    "password": "psw294",
+    "points": 0,
+    "friends": [
+      "id295"
+    ]
+  },
+  "id291": {
+    "nickUtente": "id291",
+    "password": "psw291",
+    "points": 0,
+    "friends": [
+      "id290"
+    ]
+  },
+  "id290": {
+    "nickUtente": "id290",
+    "password": "psw290",
+    "points": 0,
+    "friends": [
+      "id291"
+    ]
+  },
+  "id286": {
+    "nickUtente": "id286",
+    "password": "psw286",
+    "points": 0,
+    "friends": [
+      "id287"
+    ]
+  },
+  "id285": {
+    "nickUtente": "id285",
+    "password": "psw285",
+    "points": 0,
+    "friends": [
+      "id284"
+    ]
+  },
+  "id288": {
+    "nickUtente": "id288",
+    "password": "psw288",
+    "points": 0,
+    "friends": [
+      "id289"
+    ]
+  },
+  "id287": {
+    "nickUtente": "id287",
+    "password": "psw287",
+    "points": 0,
+    "friends": [
+      "id286"
+    ]
+  },
+  "id282": {
+    "nickUtente": "id282",
+    "password": "psw282",
+    "points": 0,
+    "friends": [
+      "id283"
+    ]
+  },
+  "id281": {
+    "nickUtente": "id281",
+    "password": "psw281",
+    "points": 0,
+    "friends": [
+      "id280"
+    ]
+  },
+  "id284": {
+    "nickUtente": "id284",
+    "password": "psw284",
+    "points": 0,
+    "friends": [
+      "id285"
+    ]
+  },
+  "id283": {
+    "nickUtente": "id283",
+    "password": "psw283",
+    "points": 0,
+    "friends": [
+      "id282"
+    ]
+  },
+  "id289": {
+    "nickUtente": "id289",
+    "password": "psw289",
+    "points": 0,
+    "friends": [
+      "id288"
+    ]
+  },
+  "id280": {
+    "nickUtente": "id280",
+    "password": "psw280",
+    "points": 0,
+    "friends": [
+      "id281"
+    ]
+  },
+  "id275": {
+    "nickUtente": "id275",
+    "password": "psw275",
+    "points": 0,
+    "friends": [
+      "id274"
+    ]
+  },
+  "id274": {
+    "nickUtente": "id274",
+    "password": "psw274",
+    "points": 0,
+    "friends": [
+      "id275"
+    ]
+  },
+  "id277": {
+    "nickUtente": "id277",
+    "password": "psw277",
+    "points": 0,
+    "friends": [
+      "id276"
+    ]
+  },
+  "id276": {
+    "nickUtente": "id276",
+    "password": "psw276",
+    "points": 0,
+    "friends": [
+      "id277"
+    ]
+  },
+  "id271": {
+    "nickUtente": "id271",
+    "password": "psw271",
+    "points": 0,
+    "friends": [
+      "id270"
+    ]
+  },
+  "id270": {
+    "nickUtente": "id270",
+    "password": "psw270",
+    "points": 0,
+    "friends": [
+      "id271"
+    ]
+  },
+  "id273": {
+    "nickUtente": "id273",
+    "password": "psw273",
+    "points": 0,
+    "friends": [
+      "id272"
+    ]
+  },
+  "id272": {
+    "nickUtente": "id272",
+    "password": "psw272",
+    "points": 0,
+    "friends": [
+      "id273"
+    ]
+  },
+  "id279": {
+    "nickUtente": "id279",
+    "password": "psw279",
+    "points": 0,
+    "friends": [
+      "id278"
+    ]
+  },
+  "id278": {
+    "nickUtente": "id278",
+    "password": "psw278",
+    "points": 0,
+    "friends": [
+      "id279"
+    ]
+  },
+  "id0": {
+    "nickUtente": "id0",
+    "password": "psw0",
+    "points": 0,
+    "friends": [
+      "id1"
+    ]
+  },
+  "id2": {
+    "nickUtente": "id2",
+    "password": "psw2",
+    "points": 0,
+    "friends": [
+      "id3"
+    ]
+  },
+  "id1": {
+    "nickUtente": "id1",
+    "password": "psw1",
+    "points": 0,
+    "friends": [
+      "id0"
+    ]
+  },
+  "id4": {
+    "nickUtente": "id4",
+    "password": "psw4",
+    "points": 0,
+    "friends": [
+      "id5"
+    ]
+  },
+  "id3": {
+    "nickUtente": "id3",
+    "password": "psw3",
+    "points": 0,
+    "friends": [
+      "id2"
+    ]
+  },
+  "id6": {
+    "nickUtente": "id6",
+    "password": "psw6",
+    "points": 0,
+    "friends": [
+      "id7"
+    ]
+  },
+  "id5": {
+    "nickUtente": "id5",
+    "password": "psw5",
+    "points": 0,
+    "friends": [
+      "id4"
+    ]
+  },
+  "id8": {
+    "nickUtente": "id8",
+    "password": "psw8",
+    "points": 0,
+    "friends": [
+      "id9"
+    ]
+  },
+  "id7": {
+    "nickUtente": "id7",
+    "password": "psw7",
+    "points": 0,
+    "friends": [
+      "id6"
+    ]
+  },
+  "id9": {
+    "nickUtente": "id9",
+    "password": "psw9",
+    "points": 0,
+    "friends": [
+      "id8"
+    ]
+  },
+  "id264": {
+    "nickUtente": "id264",
+    "password": "psw264",
+    "points": 0,
+    "friends": [
+      "id265"
+    ]
+  },
+  "id263": {
+    "nickUtente": "id263",
+    "password": "psw263",
+    "points": 0,
+    "friends": [
+      "id262"
+    ]
+  },
+  "id266": {
+    "nickUtente": "id266",
+    "password": "psw266",
+    "points": 0,
+    "friends": [
+      "id267"
+    ]
+  },
+  "id265": {
+    "nickUtente": "id265",
+    "password": "psw265",
+    "points": 0,
+    "friends": [
+      "id264"
+    ]
+  },
+  "id260": {
+    "nickUtente": "id260",
+    "password": "psw260",
+    "points": 0,
+    "friends": [
+      "id261"
+    ]
+  },
+  "id262": {
+    "nickUtente": "id262",
+    "password": "psw262",
+    "points": 0,
+    "friends": [
+      "id263"
+    ]
+  },
+  "id261": {
+    "nickUtente": "id261",
+    "password": "psw261",
+    "points": 0,
+    "friends": [
+      "id260"
+    ]
+  },
+  "id268": {
+    "nickUtente": "id268",
+    "password": "psw268",
+    "points": 0,
+    "friends": [
+      "id269"
+    ]
+  },
+  "id267": {
+    "nickUtente": "id267",
+    "password": "psw267",
+    "points": 0,
+    "friends": [
+      "id266"
+    ]
+  },
+  "id269": {
+    "nickUtente": "id269",
+    "password": "psw269",
+    "points": 0,
+    "friends": [
+      "id268"
+    ]
+  },
+  "id253": {
+    "nickUtente": "id253",
+    "password": "psw253",
+    "points": 0,
+    "friends": [
+      "id252"
+    ]
+  },
+  "id495": {
+    "nickUtente": "id495",
+    "password": "psw495",
+    "points": 0,
+    "friends": [
+      "id494"
+    ]
+  },
+  "id252": {
+    "nickUtente": "id252",
+    "password": "psw252",
+    "points": 0,
+    "friends": [
+      "id253"
+    ]
+  },
+  "id494": {
+    "nickUtente": "id494",
+    "password": "psw494",
+    "points": 0,
+    "friends": [
+      "id495"
+    ]
+  },
+  "id255": {
+    "nickUtente": "id255",
+    "password": "psw255",
+    "points": 0,
+    "friends": [
+      "id254"
+    ]
+  },
+  "id497": {
+    "nickUtente": "id497",
+    "password": "psw497",
+    "points": 0,
+    "friends": [
+      "id496"
+    ]
+  },
+  "id254": {
+    "nickUtente": "id254",
+    "password": "psw254",
+    "points": 0,
+    "friends": [
+      "id255"
+    ]
+  },
+  "id496": {
+    "nickUtente": "id496",
+    "password": "psw496",
+    "points": 0,
+    "friends": [
+      "id497"
+    ]
+  },
+  "id491": {
+    "nickUtente": "id491",
+    "password": "psw491",
+    "points": 0,
+    "friends": [
+      "id490"
+    ]
+  },
+  "id490": {
+    "nickUtente": "id490",
+    "password": "psw490",
+    "points": 0,
+    "friends": [
+      "id491"
+    ]
+  },
+  "id251": {
+    "nickUtente": "id251",
+    "password": "psw251",
+    "points": 0,
+    "friends": [
+      "id250"
+    ]
+  },
+  "id493": {
+    "nickUtente": "id493",
+    "password": "psw493",
+    "points": 0,
+    "friends": [
+      "id492"
+    ]
+  },
+  "id250": {
+    "nickUtente": "id250",
+    "password": "psw250",
+    "points": 0,
+    "friends": [
+      "id251"
+    ]
+  },
+  "id492": {
+    "nickUtente": "id492",
+    "password": "psw492",
+    "points": 0,
+    "friends": [
+      "id493"
+    ]
+  },
+  "id257": {
+    "nickUtente": "id257",
+    "password": "psw257",
+    "points": 0,
+    "friends": [
+      "id256"
+    ]
+  },
+  "id499": {
+    "nickUtente": "id499",
+    "password": "psw499",
+    "points": 0,
+    "friends": [
+      "id498"
+    ]
+  },
+  "id256": {
+    "nickUtente": "id256",
+    "password": "psw256",
+    "points": 0,
+    "friends": [
+      "id257"
+    ]
+  },
+  "id498": {
+    "nickUtente": "id498",
+    "password": "psw498",
+    "points": 0,
+    "friends": [
+      "id499"
+    ]
+  },
+  "id259": {
+    "nickUtente": "id259",
+    "password": "psw259",
+    "points": 0,
+    "friends": [
+      "id258"
+    ]
+  },
+  "id258": {
+    "nickUtente": "id258",
+    "password": "psw258",
+    "points": 0,
+    "friends": [
+      "id259"
+    ]
+  },
+  "id242": {
+    "nickUtente": "id242",
+    "password": "psw242",
+    "points": 0,
+    "friends": [
+      "id243"
+    ]
+  },
+  "id484": {
+    "nickUtente": "id484",
+    "password": "psw484",
+    "points": 0,
+    "friends": [
+      "id485"
+    ]
+  },
+  "id241": {
+    "nickUtente": "id241",
+    "password": "psw241",
+    "points": 0,
+    "friends": [
+      "id240"
+    ]
+  },
+  "id483": {
+    "nickUtente": "id483",
+    "password": "psw483",
+    "points": 0,
+    "friends": [
+      "id482"
+    ]
+  },
+  "id244": {
+    "nickUtente": "id244",
+    "password": "psw244",
+    "points": 0,
+    "friends": [
+      "id245"
+    ]
+  },
+  "id486": {
+    "nickUtente": "id486",
+    "password": "psw486",
+    "points": 0,
+    "friends": [
+      "id487"
+    ]
+  },
+  "id243": {
+    "nickUtente": "id243",
+    "password": "psw243",
+    "points": 0,
+    "friends": [
+      "id242"
+    ]
+  },
+  "id485": {
+    "nickUtente": "id485",
+    "password": "psw485",
+    "points": 0,
+    "friends": [
+      "id484"
+    ]
+  },
+  "id480": {
+    "nickUtente": "id480",
+    "password": "psw480",
+    "points": 0,
+    "friends": [
+      "id481"
+    ]
+  },
+  "id240": {
+    "nickUtente": "id240",
+    "password": "psw240",
+    "points": 0,
+    "friends": [
+      "id241"
+    ]
+  },
+  "id482": {
+    "nickUtente": "id482",
+    "password": "psw482",
+    "points": 0,
+    "friends": [
+      "id483"
+    ]
+  },
+  "id481": {
+    "nickUtente": "id481",
+    "password": "psw481",
+    "points": 0,
+    "friends": [
+      "id480"
+    ]
+  },
+  "id249": {
+    "nickUtente": "id249",
+    "password": "psw249",
+    "points": 0,
+    "friends": [
+      "id248"
+    ]
+  },
+  "id246": {
+    "nickUtente": "id246",
+    "password": "psw246",
+    "points": 0,
+    "friends": [
+      "id247"
+    ]
+  },
+  "id488": {
+    "nickUtente": "id488",
+    "password": "psw488",
+    "points": 0,
+    "friends": [
+      "id489"
+    ]
+  },
+  "id245": {
+    "nickUtente": "id245",
+    "password": "psw245",
+    "points": 0,
+    "friends": [
+      "id244"
+    ]
+  },
+  "id487": {
+    "nickUtente": "id487",
+    "password": "psw487",
+    "points": 0,
+    "friends": [
+      "id486"
+    ]
+  },
+  "id248": {
+    "nickUtente": "id248",
+    "password": "psw248",
+    "points": 0,
+    "friends": [
+      "id249"
+    ]
+  },
+  "id247": {
+    "nickUtente": "id247",
+    "password": "psw247",
+    "points": 0,
+    "friends": [
+      "id246"
+    ]
+  },
+  "id489": {
+    "nickUtente": "id489",
+    "password": "psw489",
+    "points": 0,
+    "friends": [
+      "id488"
+    ]
+  },
+  "id473": {
+    "nickUtente": "id473",
+    "password": "psw473",
+    "points": 0,
+    "friends": [
+      "id472"
+    ]
+  },
+  "id231": {
+    "nickUtente": "id231",
+    "password": "psw231",
+    "points": 0,
+    "friends": [
+      "id230"
+    ]
+  },
+  "id472": {
+    "nickUtente": "id472",
+    "password": "psw472",
+    "points": 0,
+    "friends": [
+      "id473"
+    ]
+  },
+  "id230": {
+    "nickUtente": "id230",
+    "password": "psw230",
+    "points": 0,
+    "friends": [
+      "id231"
+    ]
+  },
+  "id475": {
+    "nickUtente": "id475",
+    "password": "psw475",
+    "points": 0,
+    "friends": [
+      "id474"
+    ]
+  },
+  "id233": {
+    "nickUtente": "id233",
+    "password": "psw233",
+    "points": 0,
+    "friends": [
+      "id232"
+    ]
+  },
+  "id474": {
+    "nickUtente": "id474",
+    "password": "psw474",
+    "points": 0,
+    "friends": [
+      "id475"
+    ]
+  },
+  "id232": {
+    "nickUtente": "id232",
+    "password": "psw232",
+    "points": 0,
+    "friends": [
+      "id233"
+    ]
+  },
+  "id471": {
+    "nickUtente": "id471",
+    "password": "psw471",
+    "points": 0,
+    "friends": [
+      "id470"
+    ]
+  },
+  "id470": {
+    "nickUtente": "id470",
+    "password": "psw470",
+    "points": 0,
+    "friends": [
+      "id471"
+    ]
+  },
+  "id239": {
+    "nickUtente": "id239",
+    "password": "psw239",
+    "points": 0,
+    "friends": [
+      "id238"
+    ]
+  },
+  "id238": {
+    "nickUtente": "id238",
+    "password": "psw238",
+    "points": 0,
+    "friends": [
+      "id239"
+    ]
+  },
+  "id477": {
+    "nickUtente": "id477",
+    "password": "psw477",
+    "points": 0,
+    "friends": [
+      "id476"
+    ]
+  },
+  "id235": {
+    "nickUtente": "id235",
+    "password": "psw235",
+    "points": 0,
+    "friends": [
+      "id234"
+    ]
+  },
+  "id476": {
+    "nickUtente": "id476",
+    "password": "psw476",
+    "points": 0,
+    "friends": [
+      "id477"
+    ]
+  },
+  "id234": {
+    "nickUtente": "id234",
+    "password": "psw234",
+    "points": 0,
+    "friends": [
+      "id235"
+    ]
+  },
+  "id237": {
+    "nickUtente": "id237",
+    "password": "psw237",
+    "points": 0,
+    "friends": [
+      "id236"
+    ]
+  },
+  "id479": {
+    "nickUtente": "id479",
+    "password": "psw479",
+    "points": 0,
+    "friends": [
+      "id478"
+    ]
+  },
+  "id478": {
+    "nickUtente": "id478",
+    "password": "psw478",
+    "points": 0,
+    "friends": [
+      "id479"
+    ]
+  },
+  "id236": {
+    "nickUtente": "id236",
+    "password": "psw236",
+    "points": 0,
+    "friends": [
+      "id237"
+    ]
+  },
+  "id462": {
+    "nickUtente": "id462",
+    "password": "psw462",
+    "points": 0,
+    "friends": [
+      "id463"
+    ]
+  },
+  "id220": {
+    "nickUtente": "id220",
+    "password": "psw220",
+    "points": 0,
+    "friends": [
+      "id221"
+    ]
+  },
+  "id461": {
+    "nickUtente": "id461",
+    "password": "psw461",
+    "points": 0,
+    "friends": [
+      "id460"
+    ]
+  },
+  "id464": {
+    "nickUtente": "id464",
+    "password": "psw464",
+    "points": 0,
+    "friends": [
+      "id465"
+    ]
+  },
+  "id222": {
+    "nickUtente": "id222",
+    "password": "psw222",
+    "points": 0,
+    "friends": [
+      "id223"
+    ]
+  },
+  "id463": {
+    "nickUtente": "id463",
+    "password": "psw463",
+    "points": 0,
+    "friends": [
+      "id462"
+    ]
+  },
+  "id221": {
+    "nickUtente": "id221",
+    "password": "psw221",
+    "points": 0,
+    "friends": [
+      "id220"
+    ]
+  },
+  "id460": {
+    "nickUtente": "id460",
+    "password": "psw460",
+    "points": 0,
+    "friends": [
+      "id461"
+    ]
+  },
+  "id228": {
+    "nickUtente": "id228",
+    "password": "psw228",
+    "points": 0,
+    "friends": [
+      "id229"
+    ]
+  },
+  "id227": {
+    "nickUtente": "id227",
+    "password": "psw227",
+    "points": 0,
+    "friends": [
+      "id226"
+    ]
+  },
+  "id469": {
+    "nickUtente": "id469",
+    "password": "psw469",
+    "points": 0,
+    "friends": [
+      "id468"
+    ]
+  },
+  "id229": {
+    "nickUtente": "id229",
+    "password": "psw229",
+    "points": 0,
+    "friends": [
+      "id228"
+    ]
+  },
+  "id466": {
+    "nickUtente": "id466",
+    "password": "psw466",
+    "points": 0,
+    "friends": [
+      "id467"
+    ]
+  },
+  "id224": {
+    "nickUtente": "id224",
+    "password": "psw224",
+    "points": 0,
+    "friends": [
+      "id225"
+    ]
+  },
+  "id465": {
+    "nickUtente": "id465",
+    "password": "psw465",
+    "points": 0,
+    "friends": [
+      "id464"
+    ]
+  },
+  "id223": {
+    "nickUtente": "id223",
+    "password": "psw223",
+    "points": 0,
+    "friends": [
+      "id222"
+    ]
+  },
+  "id468": {
+    "nickUtente": "id468",
+    "password": "psw468",
+    "points": 0,
+    "friends": [
+      "id469"
+    ]
+  },
+  "id226": {
+    "nickUtente": "id226",
+    "password": "psw226",
+    "points": 0,
+    "friends": [
+      "id227"
+    ]
+  },
+  "id467": {
+    "nickUtente": "id467",
+    "password": "psw467",
+    "points": 0,
+    "friends": [
+      "id466"
+    ]
+  },
+  "id225": {
+    "nickUtente": "id225",
+    "password": "psw225",
+    "points": 0,
+    "friends": [
+      "id224"
+    ]
+  },
+  "id451": {
+    "nickUtente": "id451",
+    "password": "psw451",
+    "points": 0,
+    "friends": [
+      "id450"
+    ]
+  },
+  "id693": {
+    "nickUtente": "id693",
+    "password": "psw693",
+    "points": 0,
+    "friends": [
+      "id692"
+    ]
+  },
+  "id450": {
+    "nickUtente": "id450",
+    "password": "psw450",
+    "points": 0,
+    "friends": [
+      "id451"
+    ]
+  },
+  "id692": {
+    "nickUtente": "id692",
+    "password": "psw692",
+    "points": 0,
+    "friends": [
+      "id693"
+    ]
+  },
+  "id453": {
+    "nickUtente": "id453",
+    "password": "psw453",
+    "points": 0,
+    "friends": [
+      "id452"
+    ]
+  },
+  "id211": {
+    "nickUtente": "id211",
+    "password": "psw211",
+    "points": 0,
+    "friends": [
+      "id210"
+    ]
+  },
+  "id695": {
+    "nickUtente": "id695",
+    "password": "psw695",
+    "points": 0,
+    "friends": [
+      "id694"
+    ]
+  },
+  "id452": {
+    "nickUtente": "id452",
+    "password": "psw452",
+    "points": 0,
+    "friends": [
+      "id453"
+    ]
+  },
+  "id210": {
+    "nickUtente": "id210",
+    "password": "psw210",
+    "points": 0,
+    "friends": [
+      "id211"
+    ]
+  },
+  "id694": {
+    "nickUtente": "id694",
+    "password": "psw694",
+    "points": 0,
+    "friends": [
+      "id695"
+    ]
+  },
+  "id691": {
+    "nickUtente": "id691",
+    "password": "psw691",
+    "points": 0,
+    "friends": [
+      "id690"
+    ]
+  },
+  "id690": {
+    "nickUtente": "id690",
+    "password": "psw690",
+    "points": 0,
+    "friends": [
+      "id691"
+    ]
+  },
+  "id217": {
+    "nickUtente": "id217",
+    "password": "psw217",
+    "points": 0,
+    "friends": [
+      "id216"
+    ]
+  },
+  "id459": {
+    "nickUtente": "id459",
+    "password": "psw459",
+    "points": 0,
+    "friends": [
+      "id458"
+    ]
+  },
+  "id458": {
+    "nickUtente": "id458",
+    "password": "psw458",
+    "points": 0,
+    "friends": [
+      "id459"
+    ]
+  },
+  "id216": {
+    "nickUtente": "id216",
+    "password": "psw216",
+    "points": 0,
+    "friends": [
+      "id217"
+    ]
+  },
+  "id219": {
+    "nickUtente": "id219",
+    "password": "psw219",
+    "points": 0,
+    "friends": [
+      "id218"
+    ]
+  },
+  "id218": {
+    "nickUtente": "id218",
+    "password": "psw218",
+    "points": 0,
+    "friends": [
+      "id219"
+    ]
+  },
+  "id455": {
+    "nickUtente": "id455",
+    "password": "psw455",
+    "points": 0,
+    "friends": [
+      "id454"
+    ]
+  },
+  "id213": {
+    "nickUtente": "id213",
+    "password": "psw213",
+    "points": 0,
+    "friends": [
+      "id212"
+    ]
+  },
+  "id697": {
+    "nickUtente": "id697",
+    "password": "psw697",
+    "points": 0,
+    "friends": [
+      "id696"
+    ]
+  },
+  "id454": {
+    "nickUtente": "id454",
+    "password": "psw454",
+    "points": 0,
+    "friends": [
+      "id455"
+    ]
+  },
+  "id212": {
+    "nickUtente": "id212",
+    "password": "psw212",
+    "points": 0,
+    "friends": [
+      "id213"
+    ]
+  },
+  "id696": {
+    "nickUtente": "id696",
+    "password": "psw696",
+    "points": 0,
+    "friends": [
+      "id697"
+    ]
+  },
+  "id457": {
+    "nickUtente": "id457",
+    "password": "psw457",
+    "points": 0,
+    "friends": [
+      "id456"
+    ]
+  },
+  "id215": {
+    "nickUtente": "id215",
+    "password": "psw215",
+    "points": 0,
+    "friends": [
+      "id214"
+    ]
+  },
+  "id699": {
+    "nickUtente": "id699",
+    "password": "psw699",
+    "points": 0,
+    "friends": [
+      "id698"
+    ]
+  },
+  "id456": {
+    "nickUtente": "id456",
+    "password": "psw456",
+    "points": 0,
+    "friends": [
+      "id457"
+    ]
+  },
+  "id214": {
+    "nickUtente": "id214",
+    "password": "psw214",
+    "points": 0,
+    "friends": [
+      "id215"
+    ]
+  },
+  "id698": {
+    "nickUtente": "id698",
+    "password": "psw698",
+    "points": 0,
+    "friends": [
+      "id699"
+    ]
+  },
+  "id209": {
+    "nickUtente": "id209",
+    "password": "psw209",
+    "points": 0,
+    "friends": [
+      "id208"
+    ]
+  },
+  "id440": {
+    "nickUtente": "id440",
+    "password": "psw440",
+    "points": 0,
+    "friends": [
+      "id441"
+    ]
+  },
+  "id682": {
+    "nickUtente": "id682",
+    "password": "psw682",
+    "points": 0,
+    "friends": [
+      "id683"
+    ]
+  },
+  "id681": {
+    "nickUtente": "id681",
+    "password": "psw681",
+    "points": 0,
+    "friends": [
+      "id680"
+    ]
+  },
+  "id442": {
+    "nickUtente": "id442",
+    "password": "psw442",
+    "points": 0,
+    "friends": [
+      "id443"
+    ]
+  },
+  "id200": {
+    "nickUtente": "id200",
+    "password": "psw200",
+    "points": 0,
+    "friends": [
+      "id201"
+    ]
+  },
+  "id684": {
+    "nickUtente": "id684",
+    "password": "psw684",
+    "points": 0,
+    "friends": [
+      "id685"
+    ]
+  },
+  "id441": {
+    "nickUtente": "id441",
+    "password": "psw441",
+    "points": 0,
+    "friends": [
+      "id440"
+    ]
+  },
+  "id683": {
+    "nickUtente": "id683",
+    "password": "psw683",
+    "points": 0,
+    "friends": [
+      "id682"
+    ]
+  },
+  "id680": {
+    "nickUtente": "id680",
+    "password": "psw680",
+    "points": 0,
+    "friends": [
+      "id681"
+    ]
+  },
+  "id448": {
+    "nickUtente": "id448",
+    "password": "psw448",
+    "points": 0,
+    "friends": [
+      "id449"
+    ]
+  },
+  "id206": {
+    "nickUtente": "id206",
+    "password": "psw206",
+    "points": 0,
+    "friends": [
+      "id207"
+    ]
+  },
+  "id447": {
+    "nickUtente": "id447",
+    "password": "psw447",
+    "points": 0,
+    "friends": [
+      "id446"
+    ]
+  },
+  "id205": {
+    "nickUtente": "id205",
+    "password": "psw205",
+    "points": 0,
+    "friends": [
+      "id204"
+    ]
+  },
+  "id689": {
+    "nickUtente": "id689",
+    "password": "psw689",
+    "points": 0,
+    "friends": [
+      "id688"
+    ]
+  },
+  "id208": {
+    "nickUtente": "id208",
+    "password": "psw208",
+    "points": 0,
+    "friends": [
+      "id209"
+    ]
+  },
+  "id207": {
+    "nickUtente": "id207",
+    "password": "psw207",
+    "points": 0,
+    "friends": [
+      "id206"
+    ]
+  },
+  "id449": {
+    "nickUtente": "id449",
+    "password": "psw449",
+    "points": 0,
+    "friends": [
+      "id448"
+    ]
+  },
+  "id444": {
+    "nickUtente": "id444",
+    "password": "psw444",
+    "points": 0,
+    "friends": [
+      "id445"
+    ]
+  },
+  "id202": {
+    "nickUtente": "id202",
+    "password": "psw202",
+    "points": 0,
+    "friends": [
+      "id203"
+    ]
+  },
+  "id686": {
+    "nickUtente": "id686",
+    "password": "psw686",
+    "points": 0,
+    "friends": [
+      "id687"
+    ]
+  },
+  "id443": {
+    "nickUtente": "id443",
+    "password": "psw443",
+    "points": 0,
+    "friends": [
+      "id442"
+    ]
+  },
+  "id201": {
+    "nickUtente": "id201",
+    "password": "psw201",
+    "points": 0,
+    "friends": [
+      "id200"
+    ]
+  },
+  "id685": {
+    "nickUtente": "id685",
+    "password": "psw685",
+    "points": 0,
+    "friends": [
+      "id684"
+    ]
+  },
+  "id446": {
+    "nickUtente": "id446",
+    "password": "psw446",
+    "points": 0,
+    "friends": [
+      "id447"
+    ]
+  },
+  "id204": {
+    "nickUtente": "id204",
+    "password": "psw204",
+    "points": 0,
+    "friends": [
+      "id205"
+    ]
+  },
+  "id688": {
+    "nickUtente": "id688",
+    "password": "psw688",
+    "points": 0,
+    "friends": [
+      "id689"
+    ]
+  },
+  "id445": {
+    "nickUtente": "id445",
+    "password": "psw445",
+    "points": 0,
+    "friends": [
+      "id444"
+    ]
+  },
+  "id203": {
+    "nickUtente": "id203",
+    "password": "psw203",
+    "points": 0,
+    "friends": [
+      "id202"
+    ]
+  },
+  "id687": {
+    "nickUtente": "id687",
+    "password": "psw687",
+    "points": 0,
+    "friends": [
+      "id686"
+    ]
+  },
+  "id671": {
+    "nickUtente": "id671",
+    "password": "psw671",
+    "points": 0,
+    "friends": [
+      "id670"
+    ]
+  },
+  "id670": {
+    "nickUtente": "id670",
+    "password": "psw670",
+    "points": 0,
+    "friends": [
+      "id671"
+    ]
+  },
+  "id431": {
+    "nickUtente": "id431",
+    "password": "psw431",
+    "points": 0,
+    "friends": [
+      "id430"
+    ]
+  },
+  "id673": {
+    "nickUtente": "id673",
+    "password": "psw673",
+    "points": 0,
+    "friends": [
+      "id672"
+    ]
+  },
+  "id430": {
+    "nickUtente": "id430",
+    "password": "psw430",
+    "points": 0,
+    "friends": [
+      "id431"
+    ]
+  },
+  "id672": {
+    "nickUtente": "id672",
+    "password": "psw672",
+    "points": 0,
+    "friends": [
+      "id673"
+    ]
+  },
+  "id437": {
+    "nickUtente": "id437",
+    "password": "psw437",
+    "points": 0,
+    "friends": [
+      "id436"
+    ]
+  },
+  "id679": {
+    "nickUtente": "id679",
+    "password": "psw679",
+    "points": 0,
+    "friends": [
+      "id678"
+    ]
+  },
+  "id436": {
+    "nickUtente": "id436",
+    "password": "psw436",
+    "points": 0,
+    "friends": [
+      "id437"
+    ]
+  },
+  "id678": {
+    "nickUtente": "id678",
+    "password": "psw678",
+    "points": 0,
+    "friends": [
+      "id679"
+    ]
+  },
+  "id439": {
+    "nickUtente": "id439",
+    "password": "psw439",
+    "points": 0,
+    "friends": [
+      "id438"
+    ]
+  },
+  "id438": {
+    "nickUtente": "id438",
+    "password": "psw438",
+    "points": 0,
+    "friends": [
+      "id439"
+    ]
+  },
+  "id433": {
+    "nickUtente": "id433",
+    "password": "psw433",
+    "points": 0,
+    "friends": [
+      "id432"
+    ]
+  },
+  "id675": {
+    "nickUtente": "id675",
+    "password": "psw675",
+    "points": 0,
+    "friends": [
+      "id674"
+    ]
+  },
+  "id432": {
+    "nickUtente": "id432",
+    "password": "psw432",
+    "points": 0,
+    "friends": [
+      "id433"
+    ]
+  },
+  "id674": {
+    "nickUtente": "id674",
+    "password": "psw674",
+    "points": 0,
+    "friends": [
+      "id675"
+    ]
+  },
+  "id435": {
+    "nickUtente": "id435",
+    "password": "psw435",
+    "points": 0,
+    "friends": [
+      "id434"
+    ]
+  },
+  "id677": {
+    "nickUtente": "id677",
+    "password": "psw677",
+    "points": 0,
+    "friends": [
+      "id676"
+    ]
+  },
+  "id434": {
+    "nickUtente": "id434",
+    "password": "psw434",
+    "points": 0,
+    "friends": [
+      "id435"
+    ]
+  },
+  "id676": {
+    "nickUtente": "id676",
+    "password": "psw676",
+    "points": 0,
+    "friends": [
+      "id677"
+    ]
+  },
+  "id429": {
+    "nickUtente": "id429",
+    "password": "psw429",
+    "points": 0,
+    "friends": [
+      "id428"
+    ]
+  },
+  "id660": {
+    "nickUtente": "id660",
+    "password": "psw660",
+    "points": 0,
+    "friends": [
+      "id661"
+    ]
+  },
+  "id420": {
+    "nickUtente": "id420",
+    "password": "psw420",
+    "points": 0,
+    "friends": [
+      "id421"
+    ]
+  },
+  "id662": {
+    "nickUtente": "id662",
+    "password": "psw662",
+    "points": 0,
+    "friends": [
+      "id663"
+    ]
+  },
+  "id661": {
+    "nickUtente": "id661",
+    "password": "psw661",
+    "points": 0,
+    "friends": [
+      "id660"
+    ]
+  },
+  "id426": {
+    "nickUtente": "id426",
+    "password": "psw426",
+    "points": 0,
+    "friends": [
+      "id427"
+    ]
+  },
+  "id668": {
+    "nickUtente": "id668",
+    "password": "psw668",
+    "points": 0,
+    "friends": [
+      "id669"
+    ]
+  },
+  "id425": {
+    "nickUtente": "id425",
+    "password": "psw425",
+    "points": 0,
+    "friends": [
+      "id424"
+    ]
+  },
+  "id667": {
+    "nickUtente": "id667",
+    "password": "psw667",
+    "points": 0,
+    "friends": [
+      "id666"
+    ]
+  },
+  "id428": {
+    "nickUtente": "id428",
+    "password": "psw428",
+    "points": 0,
+    "friends": [
+      "id429"
+    ]
+  },
+  "id427": {
+    "nickUtente": "id427",
+    "password": "psw427",
+    "points": 0,
+    "friends": [
+      "id426"
+    ]
+  },
+  "id669": {
+    "nickUtente": "id669",
+    "password": "psw669",
+    "points": 0,
+    "friends": [
+      "id668"
+    ]
+  },
+  "id422": {
+    "nickUtente": "id422",
+    "password": "psw422",
+    "points": 0,
+    "friends": [
+      "id423"
+    ]
+  },
+  "id664": {
+    "nickUtente": "id664",
+    "password": "psw664",
+    "points": 0,
+    "friends": [
+      "id665"
+    ]
+  },
+  "id421": {
+    "nickUtente": "id421",
+    "password": "psw421",
+    "points": 0,
+    "friends": [
+      "id420"
+    ]
+  },
+  "id663": {
+    "nickUtente": "id663",
+    "password": "psw663",
+    "points": 0,
+    "friends": [
+      "id662"
+    ]
+  },
+  "id424": {
+    "nickUtente": "id424",
+    "password": "psw424",
+    "points": 0,
+    "friends": [
+      "id425"
+    ]
+  },
+  "id666": {
+    "nickUtente": "id666",
+    "password": "psw666",
+    "points": 0,
+    "friends": [
+      "id667"
+    ]
+  },
+  "id423": {
+    "nickUtente": "id423",
+    "password": "psw423",
+    "points": 0,
+    "friends": [
+      "id422"
+    ]
+  },
+  "id665": {
+    "nickUtente": "id665",
+    "password": "psw665",
+    "points": 0,
+    "friends": [
+      "id664"
+    ]
+  },
+  "id419": {
+    "nickUtente": "id419",
+    "password": "psw419",
+    "points": 0,
+    "friends": [
+      "id418"
+    ]
+  },
+  "id418": {
+    "nickUtente": "id418",
+    "password": "psw418",
+    "points": 0,
+    "friends": [
+      "id419"
+    ]
+  },
+  "id891": {
+    "nickUtente": "id891",
+    "password": "psw891",
+    "points": 0,
+    "friends": [
+      "id890"
+    ]
+  },
+  "id890": {
+    "nickUtente": "id890",
+    "password": "psw890",
+    "points": 0,
+    "friends": [
+      "id891"
+    ]
+  },
+  "id651": {
+    "nickUtente": "id651",
+    "password": "psw651",
+    "points": 0,
+    "friends": [
+      "id650"
+    ]
+  },
+  "id893": {
+    "nickUtente": "id893",
+    "password": "psw893",
+    "points": 0,
+    "friends": [
+      "id892"
+    ]
+  },
+  "id650": {
+    "nickUtente": "id650",
+    "password": "psw650",
+    "points": 0,
+    "friends": [
+      "id651"
+    ]
+  },
+  "id892": {
+    "nickUtente": "id892",
+    "password": "psw892",
+    "points": 0,
+    "friends": [
+      "id893"
+    ]
+  },
+  "id415": {
+    "nickUtente": "id415",
+    "password": "psw415",
+    "points": 0,
+    "friends": [
+      "id414"
+    ]
+  },
+  "id657": {
+    "nickUtente": "id657",
+    "password": "psw657",
+    "points": 0,
+    "friends": [
+      "id656"
+    ]
+  },
+  "id899": {
+    "nickUtente": "id899",
+    "password": "psw899",
+    "points": 0,
+    "friends": [
+      "id898"
+    ]
+  },
+  "id414": {
+    "nickUtente": "id414",
+    "password": "psw414",
+    "points": 0,
+    "friends": [
+      "id415"
+    ]
+  },
+  "id656": {
+    "nickUtente": "id656",
+    "password": "psw656",
+    "points": 0,
+    "friends": [
+      "id657"
+    ]
+  },
+  "id898": {
+    "nickUtente": "id898",
+    "password": "psw898",
+    "points": 0,
+    "friends": [
+      "id899"
+    ]
+  },
+  "id417": {
+    "nickUtente": "id417",
+    "password": "psw417",
+    "points": 0,
+    "friends": [
+      "id416"
+    ]
+  },
+  "id659": {
+    "nickUtente": "id659",
+    "password": "psw659",
+    "points": 0,
+    "friends": [
+      "id658"
+    ]
+  },
+  "id416": {
+    "nickUtente": "id416",
+    "password": "psw416",
+    "points": 0,
+    "friends": [
+      "id417"
+    ]
+  },
+  "id658": {
+    "nickUtente": "id658",
+    "password": "psw658",
+    "points": 0,
+    "friends": [
+      "id659"
+    ]
+  },
+  "id411": {
+    "nickUtente": "id411",
+    "password": "psw411",
+    "points": 0,
+    "friends": [
+      "id410"
+    ]
+  },
+  "id653": {
+    "nickUtente": "id653",
+    "password": "psw653",
+    "points": 0,
+    "friends": [
+      "id652"
+    ]
+  },
+  "id895": {
+    "nickUtente": "id895",
+    "password": "psw895",
+    "points": 0,
+    "friends": [
+      "id894"
+    ]
+  },
+  "id410": {
+    "nickUtente": "id410",
+    "password": "psw410",
+    "points": 0,
+    "friends": [
+      "id411"
+    ]
+  },
+  "id652": {
+    "nickUtente": "id652",
+    "password": "psw652",
+    "points": 0,
+    "friends": [
+      "id653"
+    ]
+  },
+  "id894": {
+    "nickUtente": "id894",
+    "password": "psw894",
+    "points": 0,
+    "friends": [
+      "id895"
+    ]
+  },
+  "id413": {
+    "nickUtente": "id413",
+    "password": "psw413",
+    "points": 0,
+    "friends": [
+      "id412"
+    ]
+  },
+  "id655": {
+    "nickUtente": "id655",
+    "password": "psw655",
+    "points": 0,
+    "friends": [
+      "id654"
+    ]
+  },
+  "id897": {
+    "nickUtente": "id897",
+    "password": "psw897",
+    "points": 0,
+    "friends": [
+      "id896"
+    ]
+  },
+  "id412": {
+    "nickUtente": "id412",
+    "password": "psw412",
+    "points": 0,
+    "friends": [
+      "id413"
+    ]
+  },
+  "id654": {
+    "nickUtente": "id654",
+    "password": "psw654",
+    "points": 0,
+    "friends": [
+      "id655"
+    ]
+  },
+  "id896": {
+    "nickUtente": "id896",
+    "password": "psw896",
+    "points": 0,
+    "friends": [
+      "id897"
+    ]
+  },
+  "id408": {
+    "nickUtente": "id408",
+    "password": "psw408",
+    "points": 0,
+    "friends": [
+      "id409"
+    ]
+  },
+  "id407": {
+    "nickUtente": "id407",
+    "password": "psw407",
+    "points": 0,
+    "friends": [
+      "id406"
+    ]
+  },
+  "id649": {
+    "nickUtente": "id649",
+    "password": "psw649",
+    "points": 0,
+    "friends": [
+      "id648"
+    ]
+  },
+  "id409": {
+    "nickUtente": "id409",
+    "password": "psw409",
+    "points": 0,
+    "friends": [
+      "id408"
+    ]
+  },
+  "id880": {
+    "nickUtente": "id880",
+    "password": "psw880",
+    "points": 0,
+    "friends": [
+      "id881"
+    ]
+  },
+  "id640": {
+    "nickUtente": "id640",
+    "password": "psw640",
+    "points": 0,
+    "friends": [
+      "id641"
+    ]
+  },
+  "id882": {
+    "nickUtente": "id882",
+    "password": "psw882",
+    "points": 0,
+    "friends": [
+      "id883"
+    ]
+  },
+  "id881": {
+    "nickUtente": "id881",
+    "password": "psw881",
+    "points": 0,
+    "friends": [
+      "id880"
+    ]
+  },
+  "id646": {
+    "nickUtente": "id646",
+    "password": "psw646",
+    "points": 0,
+    "friends": [
+      "id647"
+    ]
+  },
+  "id404": {
+    "nickUtente": "id404",
+    "password": "psw404",
+    "points": 0,
+    "friends": [
+      "id405"
+    ]
+  },
+  "id888": {
+    "nickUtente": "id888",
+    "password": "psw888",
+    "points": 0,
+    "friends": [
+      "id889"
+    ]
+  },
+  "id645": {
+    "nickUtente": "id645",
+    "password": "psw645",
+    "points": 0,
+    "friends": [
+      "id644"
+    ]
+  },
+  "id403": {
+    "nickUtente": "id403",
+    "password": "psw403",
+    "points": 0,
+    "friends": [
+      "id402"
+    ]
+  },
+  "id887": {
+    "nickUtente": "id887",
+    "password": "psw887",
+    "points": 0,
+    "friends": [
+      "id886"
+    ]
+  },
+  "id406": {
+    "nickUtente": "id406",
+    "password": "psw406",
+    "points": 0,
+    "friends": [
+      "id407"
+    ]
+  },
+  "id648": {
+    "nickUtente": "id648",
+    "password": "psw648",
+    "points": 0,
+    "friends": [
+      "id649"
+    ]
+  },
+  "id405": {
+    "nickUtente": "id405",
+    "password": "psw405",
+    "points": 0,
+    "friends": [
+      "id404"
+    ]
+  },
+  "id647": {
+    "nickUtente": "id647",
+    "password": "psw647",
+    "points": 0,
+    "friends": [
+      "id646"
+    ]
+  },
+  "id889": {
+    "nickUtente": "id889",
+    "password": "psw889",
+    "points": 0,
+    "friends": [
+      "id888"
+    ]
+  },
+  "id642": {
+    "nickUtente": "id642",
+    "password": "psw642",
+    "points": 0,
+    "friends": [
+      "id643"
+    ]
+  },
+  "id400": {
+    "nickUtente": "id400",
+    "password": "psw400",
+    "points": 0,
+    "friends": [
+      "id401"
+    ]
+  },
+  "id884": {
+    "nickUtente": "id884",
+    "password": "psw884",
+    "points": 0,
+    "friends": [
+      "id885"
+    ]
+  },
+  "id641": {
+    "nickUtente": "id641",
+    "password": "psw641",
+    "points": 0,
+    "friends": [
+      "id640"
+    ]
+  },
+  "id883": {
+    "nickUtente": "id883",
+    "password": "psw883",
+    "points": 0,
+    "friends": [
+      "id882"
+    ]
+  },
+  "id644": {
+    "nickUtente": "id644",
+    "password": "psw644",
+    "points": 0,
+    "friends": [
+      "id645"
+    ]
+  },
+  "id402": {
+    "nickUtente": "id402",
+    "password": "psw402",
+    "points": 0,
+    "friends": [
+      "id403"
+    ]
+  },
+  "id886": {
+    "nickUtente": "id886",
+    "password": "psw886",
+    "points": 0,
+    "friends": [
+      "id887"
+    ]
+  },
+  "id643": {
+    "nickUtente": "id643",
+    "password": "psw643",
+    "points": 0,
+    "friends": [
+      "id642"
+    ]
+  },
+  "id401": {
+    "nickUtente": "id401",
+    "password": "psw401",
+    "points": 0,
+    "friends": [
+      "id400"
+    ]
+  },
+  "id885": {
+    "nickUtente": "id885",
+    "password": "psw885",
+    "points": 0,
+    "friends": [
+      "id884"
+    ]
+  },
+  "id639": {
+    "nickUtente": "id639",
+    "password": "psw639",
+    "points": 0,
+    "friends": [
+      "id638"
+    ]
+  },
+  "id638": {
+    "nickUtente": "id638",
+    "password": "psw638",
+    "points": 0,
+    "friends": [
+      "id639"
+    ]
+  },
+  "id871": {
+    "nickUtente": "id871",
+    "password": "psw871",
+    "points": 0,
+    "friends": [
+      "id870"
+    ]
+  },
+  "id870": {
+    "nickUtente": "id870",
+    "password": "psw870",
+    "points": 0,
+    "friends": [
+      "id871"
+    ]
+  },
+  "id635": {
+    "nickUtente": "id635",
+    "password": "psw635",
+    "points": 0,
+    "friends": [
+      "id634"
+    ]
+  },
+  "id877": {
+    "nickUtente": "id877",
+    "password": "psw877",
+    "points": 0,
+    "friends": [
+      "id876"
+    ]
+  },
+  "id634": {
+    "nickUtente": "id634",
+    "password": "psw634",
+    "points": 0,
+    "friends": [
+      "id635"
+    ]
+  },
+  "id876": {
+    "nickUtente": "id876",
+    "password": "psw876",
+    "points": 0,
+    "friends": [
+      "id877"
+    ]
+  },
+  "id637": {
+    "nickUtente": "id637",
+    "password": "psw637",
+    "points": 0,
+    "friends": [
+      "id636"
+    ]
+  },
+  "id879": {
+    "nickUtente": "id879",
+    "password": "psw879",
+    "points": 0,
+    "friends": [
+      "id878"
+    ]
+  },
+  "id636": {
+    "nickUtente": "id636",
+    "password": "psw636",
+    "points": 0,
+    "friends": [
+      "id637"
+    ]
+  },
+  "id878": {
+    "nickUtente": "id878",
+    "password": "psw878",
+    "points": 0,
+    "friends": [
+      "id879"
+    ]
+  },
+  "id631": {
+    "nickUtente": "id631",
+    "password": "psw631",
+    "points": 0,
+    "friends": [
+      "id630"
+    ]
+  },
+  "id873": {
+    "nickUtente": "id873",
+    "password": "psw873",
+    "points": 0,
+    "friends": [
+      "id872"
+    ]
+  },
+  "id630": {
+    "nickUtente": "id630",
+    "password": "psw630",
+    "points": 0,
+    "friends": [
+      "id631"
+    ]
+  },
+  "id872": {
+    "nickUtente": "id872",
+    "password": "psw872",
+    "points": 0,
+    "friends": [
+      "id873"
+    ]
+  },
+  "id633": {
+    "nickUtente": "id633",
+    "password": "psw633",
+    "points": 0,
+    "friends": [
+      "id632"
+    ]
+  },
+  "id875": {
+    "nickUtente": "id875",
+    "password": "psw875",
+    "points": 0,
+    "friends": [
+      "id874"
+    ]
+  },
+  "id632": {
+    "nickUtente": "id632",
+    "password": "psw632",
+    "points": 0,
+    "friends": [
+      "id633"
+    ]
+  },
+  "id874": {
+    "nickUtente": "id874",
+    "password": "psw874",
+    "points": 0,
+    "friends": [
+      "id875"
+    ]
+  },
+  "id628": {
+    "nickUtente": "id628",
+    "password": "psw628",
+    "points": 0,
+    "friends": [
+      "id629"
+    ]
+  },
+  "id627": {
+    "nickUtente": "id627",
+    "password": "psw627",
+    "points": 0,
+    "friends": [
+      "id626"
+    ]
+  },
+  "id869": {
+    "nickUtente": "id869",
+    "password": "psw869",
+    "points": 0,
+    "friends": [
+      "id868"
+    ]
+  },
+  "id629": {
+    "nickUtente": "id629",
+    "password": "psw629",
+    "points": 0,
+    "friends": [
+      "id628"
+    ]
+  }
+}
